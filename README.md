@@ -1,9 +1,15 @@
-# About [repository-name]
+# About xfiles_siteblock_git_gioxx
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/dead-hosts/xfiles_siteblock_git_gioxx.svg?branch=master)](https://travis-ci.org/dead-hosts/xfiles_siteblock_git_gioxx)
 
 ```
-[description]
+! Title: X Files: HWS Harmful WebSites
+! Harmful WebSites blocca siti web potenzialmente dannosi per la tua navigazione
+! Expires: 10 days
+! Homepage: https://xfiles.noads.it
+! Home: https://xfiles.noads.it
+! Blog: https://gioxx.org/tag/abpxfiles
+! Hosting lista: GitHub.com
 ```
 
 --------------------------------------------------------------------------------
