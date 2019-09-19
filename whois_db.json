@@ -22179,6 +22179,11 @@
         "expiration_date": "12-may-2020",
         "state": "future"
     },
+    "kraftinwestycje.pl": {
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
     "kraonkelaere.com": {
         "epoch": 1580342400,
         "expiration_date": "30-jan-2020",
