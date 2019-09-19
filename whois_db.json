@@ -32434,6 +32434,11 @@
         "expiration_date": "02-dec-2019",
         "state": "future"
     },
+    "robertpomorski.com.pl": {
+        "epoch": 1570752000,
+        "expiration_date": "11-oct-2019",
+        "state": "future"
+    },
     "robertwebsterministries.org": {
         "epoch": 1571011200,
         "expiration_date": "14-oct-2019",
@@ -32839,6 +32844,11 @@
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
+    "sackabare.ac.ke": {
+        "epoch": 1576886400,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
     "saddaftar.com": {
         "epoch": 1579046400,
         "expiration_date": "15-jan-2020",
@@ -32858,6 +32868,11 @@
         "epoch": 1591920000,
         "expiration_date": "12-jun-2020",
         "state": "future"
+    },
+    "safeclaims.space": {
+        "epoch": 1564963200,
+        "expiration_date": "05-aug-2019",
+        "state": "past"
     },
     "safecrypt.net": {
         "epoch": 1563494400,
