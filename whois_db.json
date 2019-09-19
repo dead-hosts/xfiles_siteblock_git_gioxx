@@ -25079,6 +25079,11 @@
         "expiration_date": "14-sep-2020",
         "state": "future"
     },
+    "medicaltrustshop.com": {
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "medicinemasters.org": {
         "epoch": 1593820800,
         "expiration_date": "04-jul-2020",
@@ -25147,6 +25152,11 @@
     "meetyourneighbour.ca": {
         "epoch": 1592265600,
         "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
+    "mefa.ws": {
+        "epoch": 1684972800,
+        "expiration_date": "25-may-2023",
         "state": "future"
     },
     "megaagro-my.com": {
