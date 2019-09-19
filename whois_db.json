@@ -8010,9 +8010,9 @@
         "state": "future"
     },
     "cenfet.com": {
-        "epoch": 1562112000,
-        "expiration_date": "03-jul-2019",
-        "state": "past"
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
     },
     "cengizsozubek.com": {
         "epoch": 1596844800,
@@ -8287,7 +8287,7 @@
     "chatchat.ai": {
         "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "chatty-imaginativelady.com": {
         "epoch": 1594857600,
@@ -8362,7 +8362,7 @@
     "chefnbrewfestival.com": {
         "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "chemindecompostelle.ca": {
         "epoch": 1613692800,
