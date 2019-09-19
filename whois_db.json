@@ -5574,6 +5574,11 @@
         "expiration_date": "21-jun-2020",
         "state": "future"
     },
+    "besfchange.site": {
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
     "bessiesim.club": {
         "epoch": 1590192000,
         "expiration_date": "23-may-2020",
@@ -6009,6 +6014,11 @@
         "expiration_date": "01-jun-2020",
         "state": "future"
     },
+    "bitcoingenerator.space": {
+        "epoch": 1575072000,
+        "expiration_date": "30-nov-2019",
+        "state": "future"
+    },
     "bitcoinsmsxpress.com": {
         "epoch": 1563321600,
         "expiration_date": "17-jul-2019",
@@ -6389,6 +6399,11 @@
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
+    "bodyandzon.se": {
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "bodyevo.co.za": {
         "epoch": 1589068800,
         "expiration_date": "10-may-2020",
@@ -6430,9 +6445,9 @@
         "state": "future"
     },
     "bolsavirtual.com.br": {
-        "epoch": 1567209600,
-        "expiration_date": "31-aug-2019",
-        "state": "past"
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
     },
     "boludogader.com": {
         "epoch": 1590451200,
