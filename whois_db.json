@@ -6905,8 +6905,8 @@
         "state": "future"
     },
     "buchli.net.br": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
+        "epoch": 1631923200,
+        "expiration_date": "18-sep-2021",
         "state": "future"
     },
     "bucli.com.br": {
@@ -6932,6 +6932,11 @@
     "budmar-nasielsk.pl": {
         "epoch": 1571097600,
         "expiration_date": "15-oct-2019",
+        "state": "future"
+    },
+    "budujemypodklucz.pl": {
+        "epoch": 1592956800,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "bufore.com": {
@@ -6997,6 +7002,11 @@
     "burnettfarms.com": {
         "epoch": 1584748800,
         "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
+    "bursakombiservisi.web.tr": {
+        "epoch": 1591056000,
+        "expiration_date": "02-jun-2020",
         "state": "future"
     },
     "businesscoffeemedia.com": {
