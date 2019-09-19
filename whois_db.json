@@ -23730,9 +23730,9 @@
         "state": "future"
     },
     "loftyengineering.com": {
-        "epoch": 1568592000,
-        "expiration_date": "16-sep-2019",
-        "state": "past"
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
     },
     "logica-info.com": {
         "epoch": 1597104000,
@@ -23784,6 +23784,11 @@
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
+    "lokipanelhostingnew.gq": {
+        "epoch": 1585180800,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
     "lolacoffeebar.com": {
         "epoch": 1598227200,
         "expiration_date": "24-aug-2020",
@@ -23822,7 +23827,7 @@
     "longjianindia.com": {
         "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "longlifefighter.com": {
         "epoch": 1563062400,
