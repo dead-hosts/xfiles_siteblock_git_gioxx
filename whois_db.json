@@ -40499,6 +40499,11 @@
         "expiration_date": "13-jan-2020",
         "state": "future"
     },
+    "wee4wee.ws": {
+        "epoch": 1686009600,
+        "expiration_date": "06-jun-2023",
+        "state": "future"
+    },
     "weegoplay.com": {
         "epoch": 1583712000,
         "expiration_date": "09-mar-2020",
