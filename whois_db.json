@@ -42057,7 +42057,7 @@
     "zamitech.com": {
         "epoch": 1568937600,
         "expiration_date": "20-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "zango.com": {
         "epoch": 1574553600,
@@ -42264,6 +42264,11 @@
         "expiration_date": "03-aug-2020",
         "state": "future"
     },
+    "zilliqa.online": {
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
     "zilmaraalencar.com.br": {
         "epoch": 1593648000,
         "expiration_date": "02-jul-2020",
@@ -42275,9 +42280,9 @@
         "state": "future"
     },
     "zippedonlinedoc.com": {
-        "epoch": 1568592000,
-        "expiration_date": "16-sep-2019",
-        "state": "past"
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
     },
     "zixunxiu.com": {
         "epoch": 1593820800,
@@ -42377,6 +42382,11 @@
     "zrobaliipapa.com": {
         "epoch": 1592784000,
         "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "zsp-nowiny.pl": {
+        "epoch": 1569369600,
+        "expiration_date": "25-sep-2019",
         "state": "future"
     },
     "ztacs.com": {
