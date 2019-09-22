@@ -13965,8 +13965,8 @@
         "state": "future"
     },
     "ezertrans.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1632182400,
+        "expiration_date": "21-sep-2021",
         "state": "future"
     },
     "ezpowerproducts.com": {
@@ -14132,7 +14132,7 @@
     "fanintoflamecog.org": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "fantastechs.com": {
         "epoch": 1595203200,
