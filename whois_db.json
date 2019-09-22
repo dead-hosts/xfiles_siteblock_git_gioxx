@@ -25165,9 +25165,9 @@
         "state": "past"
     },
     "medium-promotion.com": {
-        "epoch": 1562544000,
-        "expiration_date": "08-jul-2019",
-        "state": "past"
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
     },
     "medium-promotions.com": {
         "epoch": 1564012800,
