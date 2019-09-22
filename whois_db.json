@@ -10285,8 +10285,8 @@
         "state": "future"
     },
     "czqmc.com": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "czwndl.com": {
@@ -10374,6 +10374,11 @@
         "expiration_date": "02-jun-2020",
         "state": "future"
     },
+    "dailynayamahaz.com": {
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
+        "state": "future"
+    },
     "daima.co.tz": {
         "epoch": 1595808000,
         "expiration_date": "27-jul-2020",
@@ -10427,7 +10432,7 @@
     "dancecourt.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "dancing-irish.com": {
         "epoch": 1597881600,
