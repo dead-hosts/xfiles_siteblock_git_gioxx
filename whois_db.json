@@ -27574,6 +27574,11 @@
         "expiration_date": "05-sep-2019",
         "state": "past"
     },
+    "necessary-security-confirmation.xyz": {
+        "epoch": 1567641600,
+        "expiration_date": "05-sep-2019",
+        "state": "past"
+    },
     "nectelephoneengineer.com": {
         "epoch": 1589328000,
         "expiration_date": "13-may-2020",
@@ -27937,6 +27942,11 @@
     "niftygifty.co.uk": {
         "epoch": 1584576000,
         "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
+    "nightvision.tech": {
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "nihilxaos.com": {
