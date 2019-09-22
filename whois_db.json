@@ -3014,6 +3014,11 @@
         "expiration_date": "15-may-2020",
         "state": "future"
     },
+    "amobiokoyefoundation.org": {
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
     "ampersulcontabilidade.com.br": {
         "epoch": 1589587200,
         "expiration_date": "16-may-2020",
@@ -3085,9 +3090,9 @@
         "state": "future"
     },
     "analysthelp.com": {
-        "epoch": 1562025600,
-        "expiration_date": "02-jul-2019",
-        "state": "past"
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
     },
     "analyticworks.ca": {
         "epoch": 1599609600,
@@ -3625,8 +3630,8 @@
         "state": "future"
     },
     "apple-summary-report.com": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "apple-verfiy.com": {
