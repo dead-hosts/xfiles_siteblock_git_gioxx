@@ -17260,8 +17260,8 @@
         "state": "future"
     },
     "hanimhadison.com": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "hanoverroad.co.uk": {
@@ -17542,6 +17542,11 @@
     "healthylifestylehub.co.uk": {
         "epoch": 1582761600,
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "healthyman.info": {
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "healthywatercenter.com": {
