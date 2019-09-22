@@ -20735,9 +20735,9 @@
         "state": "future"
     },
     "joingvo.com": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
-        "state": "past"
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
     },
     "joinhandsorganization.com": {
         "epoch": 1576800000,
@@ -20925,8 +20925,8 @@
         "state": "future"
     },
     "jsgsamanvaya.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "jshpzd.com": {
@@ -21057,6 +21057,11 @@
     "jugshots.com": {
         "epoch": 1594944000,
         "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "julesapparels.co.ke": {
+        "epoch": 1578096000,
+        "expiration_date": "04-jan-2020",
         "state": "future"
     },
     "julhodopinguim.com": {
