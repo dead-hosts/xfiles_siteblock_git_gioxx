@@ -14902,7 +14902,7 @@
     "forcaparaviver.com.br": {
         "epoch": 1568937600,
         "expiration_date": "20-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "ford-nsk.su": {
         "epoch": 1579824000,
@@ -15580,8 +15580,8 @@
         "state": "future"
     },
     "gardensofsophia.org": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "gardenstatehelicopters.com": {
@@ -15752,7 +15752,7 @@
     "gdhrjn.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "gdoc.info": {
         "epoch": 1597968000,
@@ -15905,8 +15905,8 @@
         "state": "future"
     },
     "gerardfetter.com": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "gerardoseuropeanbakery.com": {
