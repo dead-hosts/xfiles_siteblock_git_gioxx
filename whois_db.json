@@ -10585,9 +10585,9 @@
         "state": "future"
     },
     "dattanava.com": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
-        "state": "past"
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
     },
     "daveblomme.com": {
         "epoch": 1587254400,
@@ -10727,7 +10727,7 @@
     "decoutinho.com.br": {
         "epoch": 1568937600,
         "expiration_date": "20-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "decsan.com": {
         "epoch": 1573689600,
@@ -10797,7 +10797,7 @@
     "dekorfarb.pl": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "delamargm.cl": {
         "epoch": 1595203200,
@@ -10818,6 +10818,11 @@
         "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
         "state": "past"
+    },
+    "deloniyke.cz": {
+        "epoch": 1618790400,
+        "expiration_date": "19-apr-2021",
+        "state": "future"
     },
     "delowarweb.com": {
         "epoch": 1582243200,
@@ -11055,8 +11060,8 @@
         "state": "future"
     },
     "devapolline.fr": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "devblaze.work": {
