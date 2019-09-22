@@ -23359,6 +23359,11 @@
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
+    "lill.icu": {
+        "epoch": 1566172800,
+        "expiration_date": "19-aug-2019",
+        "state": "past"
+    },
     "lily-ksa.com": {
         "epoch": 1588464000,
         "expiration_date": "03-may-2020",
@@ -23599,6 +23604,11 @@
         "expiration_date": "14-aug-2020",
         "state": "future"
     },
+    "lithiumcheats.xyz": {
+        "epoch": 1574121600,
+        "expiration_date": "19-nov-2019",
+        "state": "future"
+    },
     "little-rascals.co.uk": {
         "epoch": 1580428800,
         "expiration_date": "31-jan-2020",
@@ -23665,9 +23675,9 @@
         "state": "future"
     },
     "livetotry.com": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
-        "state": "past"
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
     },
     "livetravelnews.com": {
         "epoch": 1591488000,
@@ -23870,9 +23880,9 @@
         "state": "future"
     },
     "longjianindia.com": {
-        "epoch": 1568851200,
-        "expiration_date": "19-sep-2019",
-        "state": "past"
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
     },
     "longlifefighter.com": {
         "epoch": 1563062400,
@@ -23910,8 +23920,8 @@
         "state": "future"
     },
     "loosho.com.br": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "lord16.com": {
@@ -23932,7 +23942,7 @@
     "lormiservice.it": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "losingthisweight.com": {
         "epoch": 1582588800,
@@ -24067,6 +24077,11 @@
     "luckys-fashion.com": {
         "epoch": 1620518400,
         "expiration_date": "09-may-2021",
+        "state": "future"
+    },
+    "luckysteel.co.ke": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
         "state": "future"
     },
     "luguanzhan.com": {
