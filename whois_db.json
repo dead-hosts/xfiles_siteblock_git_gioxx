@@ -8129,6 +8129,11 @@
         "expiration_date": "03-sep-2019",
         "state": "past"
     },
+    "ceskykoucink.cz": {
+        "epoch": 1572739200,
+        "expiration_date": "03-nov-2019",
+        "state": "future"
+    },
     "cesoac.org": {
         "epoch": 1575158400,
         "expiration_date": "01-dec-2019",
