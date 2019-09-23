@@ -32445,9 +32445,9 @@
         "state": "future"
     },
     "ritmicamente.it": {
-        "epoch": 1567728000,
-        "expiration_date": "06-sep-2019",
-        "state": "past"
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
     },
     "ritz-bit.com": {
         "epoch": 1592438400,
@@ -32655,8 +32655,8 @@
         "state": "future"
     },
     "rohitshukla.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "roiornfvclppad.com": {
@@ -33002,7 +33002,7 @@
     "safehandlersurf.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "saffordbuildingco.com": {
         "epoch": 1599609600,
@@ -33012,6 +33012,11 @@
     "saffronatoxford.co.uk": {
         "epoch": 1585267200,
         "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "safir.com.pl": {
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
         "state": "future"
     },
     "sagebiotech.com": {
@@ -33245,8 +33250,8 @@
         "state": "future"
     },
     "sanghaniexports.com": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "sangheralimited.com": {
