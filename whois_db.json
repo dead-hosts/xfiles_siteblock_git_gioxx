@@ -40575,8 +40575,8 @@
         "state": "future"
     },
     "webanjo.com.br": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "webfeatworks.com": {
@@ -40655,8 +40655,8 @@
         "state": "future"
     },
     "weddingingreekislands.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "wedrifastct.com": {
@@ -40707,7 +40707,7 @@
     "welcome.do": {
         "epoch": 1569196800,
         "expiration_date": "23-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "welcomehomespecialist.com": {
         "epoch": 1573344000,
@@ -40813,6 +40813,11 @@
         "epoch": 1564185600,
         "expiration_date": "27-jul-2019",
         "state": "past"
+    },
+    "wfaz-mobile.icu": {
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
     },
     "wfaz-mobile.top": {
         "epoch": 1599264000,
