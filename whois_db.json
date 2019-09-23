@@ -36645,9 +36645,9 @@
         "state": "future"
     },
     "sznm.com.cn": {
-        "epoch": 1564358400,
-        "expiration_date": "29-jul-2019",
-        "state": "past"
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
     },
     "szpk.pl": {
         "epoch": 1571097600,
@@ -36677,6 +36677,11 @@
     "t70123.com": {
         "epoch": 1594857600,
         "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "t7rminal.pw": {
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "tableauxargentes.com": {
@@ -36752,6 +36757,11 @@
     "talante.com.br": {
         "epoch": 1580688000,
         "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
+    "talentfirst.co.ke": {
+        "epoch": 1569628800,
+        "expiration_date": "28-sep-2019",
         "state": "future"
     },
     "talentwm.com": {
