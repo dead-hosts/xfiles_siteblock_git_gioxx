@@ -39762,7 +39762,7 @@
     "vertex28.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "vertexuniversal.com": {
         "epoch": 1577750400,
@@ -39852,7 +39852,7 @@
     "victorialakeoman.com": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "vicwulaw.com": {
         "epoch": 1576108800,
@@ -40180,8 +40180,8 @@
         "state": "future"
     },
     "vivatraveleg.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "vivemejor.org": {
@@ -40215,9 +40215,9 @@
         "state": "future"
     },
     "vmkbcb.info": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
-        "state": "past"
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
+        "state": "future"
     },
     "vmrinternational.com": {
         "epoch": 1576627200,
