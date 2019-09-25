@@ -13919,6 +13919,11 @@
         "expiration_date": "30-jan-2020",
         "state": "future"
     },
+    "exemploloja.online": {
+        "epoch": 1564617600,
+        "expiration_date": "01-aug-2019",
+        "state": "past"
+    },
     "exhibition-dubai.com": {
         "epoch": 1616889600,
         "expiration_date": "28-mar-2021",
@@ -14170,9 +14175,9 @@
         "state": "future"
     },
     "fanintoflamecog.org": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
-        "state": "past"
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
     },
     "fantastechs.com": {
         "epoch": 1595203200,
