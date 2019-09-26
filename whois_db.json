@@ -16274,6 +16274,11 @@
         "expiration_date": "26-jun-2020",
         "state": "future"
     },
+    "globalsolutionmarketing.com": {
+        "epoch": 1600905600,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "globaltcsd.com": {
         "epoch": 1594339200,
         "expiration_date": "10-jul-2020",
@@ -16422,6 +16427,11 @@
     "goldstandardwheyreview.com": {
         "epoch": 1614124800,
         "expiration_date": "24-feb-2021",
+        "state": "future"
+    },
+    "goldyoung.com": {
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "golfczech.cz": {
@@ -16940,9 +16950,9 @@
         "state": "future"
     },
     "gt-office.com": {
-        "epoch": 1563235200,
-        "expiration_date": "16-jul-2019",
-        "state": "past"
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
     },
     "gtarides.com": {
         "epoch": 1593043200,
