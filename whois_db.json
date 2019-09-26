@@ -18370,8 +18370,8 @@
         "state": "future"
     },
     "hppl.net": {
-        "epoch": 1569283200,
-        "expiration_date": "24-sep-2019",
+        "epoch": 1600905600,
+        "expiration_date": "24-sep-2020",
         "state": "future"
     },
     "hqprocess.com": {
@@ -18862,7 +18862,7 @@
     "idolhairsalon.com": {
         "epoch": 1569456000,
         "expiration_date": "26-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "idollashsecrets.com": {
         "epoch": 1586908800,
@@ -18902,7 +18902,7 @@
     "ifix8.com": {
         "epoch": 1569369600,
         "expiration_date": "25-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "igasp.biz": {
         "epoch": 1575676800,
