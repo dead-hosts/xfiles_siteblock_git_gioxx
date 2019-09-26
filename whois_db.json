@@ -42389,6 +42389,11 @@
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
+    "zentralkafeteatro.com": {
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
     "zentronic.co.id": {
         "epoch": 1586131200,
         "expiration_date": "06-apr-2020",
@@ -42500,8 +42505,8 @@
         "state": "future"
     },
     "zigoh.com": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "ziheyuan.com": {
@@ -42620,8 +42625,8 @@
         "state": "future"
     },
     "zoygroup.com": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "zqmdm.com": {
@@ -42635,8 +42640,8 @@
         "state": "future"
     },
     "zsp-nowiny.pl": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
+        "epoch": 1571961600,
+        "expiration_date": "25-oct-2019",
         "state": "future"
     },
     "ztacs.com": {
