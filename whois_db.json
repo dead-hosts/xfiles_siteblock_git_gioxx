@@ -22260,8 +22260,8 @@
         "state": "future"
     },
     "kpiholdings.com": {
-        "epoch": 1569283200,
-        "expiration_date": "24-sep-2019",
+        "epoch": 1600905600,
+        "expiration_date": "24-sep-2020",
         "state": "future"
     },
     "kpintra.com": {
@@ -22487,7 +22487,7 @@
     "kusco.tw": {
         "epoch": 1569283200,
         "expiration_date": "24-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "kushelevichclinic.by": {
         "epoch": 1567814400,
