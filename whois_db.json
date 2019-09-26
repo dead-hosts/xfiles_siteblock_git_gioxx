@@ -33075,9 +33075,9 @@
         "state": "past"
     },
     "safehandlersurf.com": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
-        "state": "past"
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
     },
     "saffordbuildingco.com": {
         "epoch": 1599609600,
@@ -33360,9 +33360,9 @@
         "state": "future"
     },
     "sansonconsulting.com": {
-        "epoch": 1562371200,
-        "expiration_date": "06-jul-2019",
-        "state": "past"
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
     },
     "santarellano.com": {
         "epoch": 1562803200,
