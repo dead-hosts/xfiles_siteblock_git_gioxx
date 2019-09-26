@@ -19869,6 +19869,11 @@
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
+    "itau30hrs.com": {
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "itaulinesms.com": {
         "epoch": 1565049600,
         "expiration_date": "06-aug-2019",
@@ -19935,8 +19940,8 @@
         "state": "future"
     },
     "itvertical.com": {
-        "epoch": 1569283200,
-        "expiration_date": "24-sep-2019",
+        "epoch": 1600905600,
+        "expiration_date": "24-sep-2020",
         "state": "future"
     },
     "itworldsol.com": {
@@ -19947,7 +19952,7 @@
     "itworms.com": {
         "epoch": 1569369600,
         "expiration_date": "25-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "iuga.ro": {
         "epoch": 1577318400,
@@ -20147,7 +20152,7 @@
     "jandlenterprisesinc.com": {
         "epoch": 1569456000,
         "expiration_date": "26-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "janedoemain.com": {
         "epoch": 1598659200,
@@ -20750,8 +20755,8 @@
         "state": "future"
     },
     "jofingroup.com": {
-        "epoch": 1569283200,
-        "expiration_date": "24-sep-2019",
+        "epoch": 1600905600,
+        "expiration_date": "24-sep-2020",
         "state": "future"
     },
     "johansenelectric.com": {
