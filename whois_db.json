@@ -17590,8 +17590,8 @@
         "state": "future"
     },
     "healthyhgh.com": {
-        "epoch": 1569283200,
-        "expiration_date": "24-sep-2019",
+        "epoch": 1600905600,
+        "expiration_date": "24-sep-2020",
         "state": "future"
     },
     "healthylifestylehub.co.uk": {
@@ -17752,7 +17752,7 @@
     "hentainotits.com": {
         "epoch": 1569456000,
         "expiration_date": "26-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "hentelpower.com": {
         "epoch": 1589241600,
