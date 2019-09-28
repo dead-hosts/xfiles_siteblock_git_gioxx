@@ -120,8 +120,13 @@
         "state": "future"
     },
     "09zyy.com": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "1000agres.pt": {
+        "epoch": 1582329600,
+        "expiration_date": "22-feb-2020",
         "state": "future"
     },
     "1000avenue.com": {
@@ -377,7 +382,7 @@
     "24x7mediaworks.com": {
         "epoch": 1569628800,
         "expiration_date": "28-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "25work.com": {
         "epoch": 1597795200,
