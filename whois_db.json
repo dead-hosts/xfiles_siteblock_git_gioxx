@@ -12042,7 +12042,7 @@
     "drymagazine.com.br": {
         "epoch": 1569542400,
         "expiration_date": "27-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "drywallexpo.com": {
         "epoch": 1597363200,
@@ -12495,8 +12495,8 @@
         "state": "future"
     },
     "ecole-saint-simon.net": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "ecolecampus.com": {
