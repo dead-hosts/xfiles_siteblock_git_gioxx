@@ -12965,8 +12965,8 @@
         "state": "future"
     },
     "elmar.rzeszow.pl": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "elmiagencies.co.ke": {
@@ -13477,7 +13477,7 @@
     "espacoinfinite.com.br": {
         "epoch": 1569542400,
         "expiration_date": "27-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "espacomusicalcwb.com.br": {
         "epoch": 1644105600,
