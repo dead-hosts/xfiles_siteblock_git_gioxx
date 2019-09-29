@@ -37635,9 +37635,9 @@
         "state": "future"
     },
     "thecrescentinclayton.com": {
-        "epoch": 1562544000,
-        "expiration_date": "08-jul-2019",
-        "state": "past"
+        "epoch": 1601078400,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
     },
     "thedivorcecenter.com": {
         "epoch": 1590278400,
@@ -37942,7 +37942,7 @@
     "thirdrange.co.uk": {
         "epoch": 1569542400,
         "expiration_date": "27-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "thisgreenblog.com": {
         "epoch": 1599523200,
