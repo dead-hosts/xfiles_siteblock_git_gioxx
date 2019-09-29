@@ -26400,8 +26400,8 @@
         "state": "future"
     },
     "motmasters.co.uk": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "motomirko.com.pl": {
@@ -26702,7 +26702,7 @@
     "mvdenjiniyvmyrco.click": {
         "epoch": 1569715200,
         "expiration_date": "29-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "mw-advocates.com": {
         "epoch": 1599091200,
