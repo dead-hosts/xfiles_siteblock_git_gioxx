@@ -15992,7 +15992,7 @@
     "geraldgore.com": {
         "epoch": 1569801600,
         "expiration_date": "30-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "gerardfetter.com": {
         "epoch": 1600732800,
@@ -16417,7 +16417,7 @@
     "godigiads.com": {
         "epoch": 1569801600,
         "expiration_date": "30-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "gogle-drive.com": {
         "epoch": 1564790400,
