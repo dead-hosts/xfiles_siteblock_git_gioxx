@@ -1739,6 +1739,11 @@
         "expiration_date": "06-mar-2020",
         "state": "future"
     },
+    "adoring.love": {
+        "epoch": 1638230400,
+        "expiration_date": "30-nov-2021",
+        "state": "future"
+    },
     "adquireimoveis.com.br": {
         "epoch": 1571788800,
         "expiration_date": "23-oct-2019",
@@ -1860,8 +1865,8 @@
         "state": "future"
     },
     "aetruckmaint.com": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "af-cn.com": {
@@ -1990,8 +1995,8 @@
         "state": "future"
     },
     "agilean.in": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "agilerichmond.com": {
@@ -2115,9 +2120,9 @@
         "state": "future"
     },
     "ahzhaosheng.com.cn": {
-        "epoch": 1565136000,
-        "expiration_date": "07-aug-2019",
-        "state": "past"
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
     },
     "ahzxy.com": {
         "epoch": 1593302400,
@@ -2228,6 +2233,11 @@
         "epoch": 1595376000,
         "expiration_date": "22-jul-2020",
         "state": "future"
+    },
+    "airdropsvert.xyz": {
+        "epoch": 1565049600,
+        "expiration_date": "06-aug-2019",
+        "state": "past"
     },
     "airdropvert.info": {
         "epoch": 1596326400,
@@ -2558,6 +2568,11 @@
         "epoch": 1578700800,
         "expiration_date": "11-jan-2020",
         "state": "future"
+    },
+    "aliant.online": {
+        "epoch": 1563840000,
+        "expiration_date": "23-jul-2019",
+        "state": "past"
     },
     "alicethemusical.ca": {
         "epoch": 1594512000,
