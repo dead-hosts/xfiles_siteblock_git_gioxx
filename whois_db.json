@@ -17979,6 +17979,11 @@
         "expiration_date": "03-apr-2020",
         "state": "future"
     },
+    "hippclicks.com": {
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
     "hiringbai.com": {
         "epoch": 1570579200,
         "expiration_date": "09-oct-2019",
