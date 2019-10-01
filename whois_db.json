@@ -41687,7 +41687,7 @@
     "xn--fiqs8s1vdh24ati0a.com": {
         "epoch": 1569888000,
         "expiration_date": "01-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "xn--medim-9d2b.com": {
         "epoch": 1600214400,
@@ -41992,7 +41992,7 @@
     "yeayourcan.com": {
         "epoch": 1569888000,
         "expiration_date": "01-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "yekna.com": {
         "epoch": 1574467200,
@@ -42080,8 +42080,8 @@
         "state": "future"
     },
     "ygqqaluei.com": {
-        "epoch": 1569888000,
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "yiduaner.cn": {
