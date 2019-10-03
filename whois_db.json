@@ -195,8 +195,8 @@
         "state": "future"
     },
     "14198.com": {
-        "epoch": 1569888000,
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "166e61.com": {
@@ -215,9 +215,9 @@
         "state": "future"
     },
     "16games.it": {
-        "epoch": 1568592000,
-        "expiration_date": "16-sep-2019",
-        "state": "past"
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
     },
     "1710coffee.com": {
         "epoch": 1578960000,
