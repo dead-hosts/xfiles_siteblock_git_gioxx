@@ -2037,7 +2037,7 @@
     "agenziagranzotto.it": {
         "epoch": 1570838400,
         "expiration_date": "12-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "aggora.co.uk": {
         "epoch": 1600128000,
@@ -2100,8 +2100,8 @@
         "state": "future"
     },
     "agsteier.com": {
-        "epoch": 1571184000,
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "aguccistudio.ca": {
@@ -2240,9 +2240,9 @@
         "state": "future"
     },
     "aini321.com": {
-        "epoch": 1564704000,
-        "expiration_date": "02-aug-2019",
-        "state": "past"
+        "epoch": 1602547200,
+        "expiration_date": "13-oct-2020",
+        "state": "future"
     },
     "aipp-italia.it": {
         "epoch": 1587081600,
@@ -2344,6 +2344,11 @@
         "expiration_date": "07-nov-2019",
         "state": "future"
     },
+    "ajewishgift.com": {
+        "epoch": 1577836800,
+        "expiration_date": "01-jan-2020",
+        "state": "future"
+    },
     "ajjhm.com": {
         "epoch": 1581724800,
         "expiration_date": "15-feb-2020",
@@ -2377,6 +2382,11 @@
     "akhmjitext.id": {
         "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
+        "state": "future"
+    },
+    "akirkpatrick.com": {
+        "epoch": 1613347200,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "akkinha-resort.com": {
@@ -2460,9 +2470,9 @@
         "state": "future"
     },
     "albasha-lb.com": {
-        "epoch": 1570147200,
-        "expiration_date": "04-oct-2019",
-        "state": "past"
+        "epoch": 1601769600,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
     },
     "albavira.ru": {
         "epoch": 1594944000,
@@ -2507,6 +2517,11 @@
     "alecrimatelie.com.br": {
         "epoch": 1592179200,
         "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
+    "alegroup.info": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
         "state": "future"
     },
     "alegrow.com.br": {
@@ -2642,6 +2657,11 @@
     "alincortinajes.cl": {
         "epoch": 1583193600,
         "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
+    "alisat.biz": {
+        "epoch": 1585699200,
+        "expiration_date": "01-apr-2020",
         "state": "future"
     },
     "alishantea-tw.com": {
@@ -2884,6 +2904,11 @@
         "expiration_date": "02-may-2020",
         "state": "future"
     },
+    "alsoknowsit.com": {
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "alsulthanscrap.com": {
         "epoch": 1572739200,
         "expiration_date": "03-nov-2019",
@@ -2935,8 +2960,8 @@
         "state": "future"
     },
     "aluvodrinks.com": {
-        "epoch": 1570492800,
-        "expiration_date": "08-oct-2019",
+        "epoch": 1602115200,
+        "expiration_date": "08-oct-2020",
         "state": "future"
     },
     "alyans-gk.ru": {
@@ -2944,9 +2969,14 @@
         "expiration_date": "22-dec-2019",
         "state": "future"
     },
+    "ama-alliance.com": {
+        "epoch": 1566864000,
+        "expiration_date": "27-aug-2019",
+        "state": "past"
+    },
     "amaderfenchugonj.com": {
-        "epoch": 1570579200,
-        "expiration_date": "09-oct-2019",
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "amagarhshardaschool.com": {
@@ -2979,6 +3009,11 @@
         "expiration_date": "20-nov-2019",
         "state": "future"
     },
+    "amazingvacationhotels.com": {
+        "epoch": 1574640000,
+        "expiration_date": "25-nov-2019",
+        "state": "future"
+    },
     "amazontips.net": {
         "epoch": 1597276800,
         "expiration_date": "13-aug-2020",
@@ -3007,6 +3042,11 @@
     "ambitionpublishing.co.uk": {
         "epoch": 1647475200,
         "expiration_date": "17-mar-2022",
+        "state": "future"
+    },
+    "ambulanciaslazaro.com": {
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "amcsolutions.com.br": {
@@ -3075,13 +3115,18 @@
         "state": "future"
     },
     "amicsdelkayak.net": {
-        "epoch": 1571184000,
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "amigoexpress.com.br": {
         "epoch": 1571097600,
         "expiration_date": "15-oct-2019",
+        "state": "past"
+    },
+    "aminev.com": {
+        "epoch": 1597449600,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "amino-cn.com": {
@@ -3120,8 +3165,8 @@
         "state": "future"
     },
     "amsoft.co.in": {
-        "epoch": 1570665600,
-        "expiration_date": "10-oct-2019",
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "amsolarpower.com": {
@@ -3449,6 +3494,11 @@
         "expiration_date": "25-nov-2019",
         "state": "future"
     },
+    "antalya.ru": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "antarasecuriteprivee.com": {
         "epoch": 1593302400,
         "expiration_date": "28-jun-2020",
@@ -3500,9 +3550,9 @@
         "state": "future"
     },
     "anzhuo6.com": {
-        "epoch": 1564617600,
-        "expiration_date": "01-aug-2019",
-        "state": "past"
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
     },
     "anzshoesoriginal.co.id": {
         "epoch": 1574208000,
@@ -3660,8 +3710,8 @@
         "state": "future"
     },
     "apparelopolis.net": {
-        "epoch": 1571097600,
-        "expiration_date": "15-oct-2019",
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "appatualizar.com": {
@@ -3727,7 +3777,7 @@
     "appleid-accountlocked-verification.com": {
         "epoch": 1571356800,
         "expiration_date": "18-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "appleid-richdepagoinformacion.com": {
         "epoch": 1586736000,
@@ -3857,6 +3907,11 @@
     "araty.fr": {
         "epoch": 1600300800,
         "expiration_date": "17-sep-2020",
+        "state": "future"
+    },
+    "arayhamtokm.com": {
+        "epoch": 1602115200,
+        "expiration_date": "08-oct-2020",
         "state": "future"
     },
     "arbcraft.com": {
@@ -3999,6 +4054,11 @@
         "expiration_date": "26-oct-2019",
         "state": "future"
     },
+    "arkinsoftware.in": {
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
     "arkmeditech.com": {
         "epoch": 1601510400,
         "expiration_date": "01-oct-2020",
@@ -4010,8 +4070,8 @@
         "state": "future"
     },
     "armaqindustrial.com.br": {
-        "epoch": 1571097600,
-        "expiration_date": "15-oct-2019",
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "armazones.com": {
