@@ -47,7 +47,7 @@
     "0551fs.com": {
         "epoch": 1571356800,
         "expiration_date": "18-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "0571jjw.com": {
         "epoch": 1585008000,
@@ -337,7 +337,7 @@
     "2000tours.com": {
         "epoch": 1571356800,
         "expiration_date": "18-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "2012ui.com": {
         "epoch": 1588809600,
@@ -1059,6 +1059,11 @@
         "expiration_date": "21-dec-2019",
         "state": "future"
     },
+    "999fitness.com": {
+        "epoch": 1579564800,
+        "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
     "99eexx.com": {
         "epoch": 1595721600,
         "expiration_date": "26-jul-2020",
@@ -1167,7 +1172,7 @@
     "aakmanggalajogja.web.id": {
         "epoch": 1571356800,
         "expiration_date": "18-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "aaps2018.com": {
         "epoch": 1598227200,
@@ -1210,8 +1215,8 @@
         "state": "future"
     },
     "abaselectric.com": {
-        "epoch": 1570233600,
-        "expiration_date": "05-oct-2019",
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "abatakindergarten.com": {
@@ -1227,6 +1232,11 @@
     "abccomputer.co.tz": {
         "epoch": 1587340800,
         "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
+    "abcdespanol.com": {
+        "epoch": 1579392000,
+        "expiration_date": "19-jan-2020",
         "state": "future"
     },
     "abcgrafiketiket.com": {
@@ -1277,7 +1287,7 @@
     "abgreen.com.br": {
         "epoch": 1571356800,
         "expiration_date": "18-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "abidetechnical.com": {
         "epoch": 1598227200,
@@ -1434,6 +1444,11 @@
         "expiration_date": "29-aug-2020",
         "state": "future"
     },
+    "account-web.com": {
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
     "account4support.com": {
         "epoch": 1571961600,
         "expiration_date": "25-oct-2019",
@@ -1522,6 +1537,11 @@
     "achgroup.co": {
         "epoch": 1593648000,
         "expiration_date": "02-jul-2020",
+        "state": "future"
+    },
+    "achren.org": {
+        "epoch": 1591142400,
+        "expiration_date": "03-jun-2020",
         "state": "future"
     },
     "aciasms.com.br": {
@@ -1684,6 +1704,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "adlock.in": {
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
     "admineservice.com": {
         "epoch": 1585699200,
         "expiration_date": "01-apr-2020",
@@ -1732,6 +1757,11 @@
     "adobe-update.com": {
         "epoch": 1583971200,
         "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
+    "adobeflashupdate14.com": {
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "adobeo.com": {
@@ -1824,6 +1854,11 @@
         "expiration_date": "04-jul-2021",
         "state": "future"
     },
+    "advancetec.co.uk": {
+        "epoch": 1572480000,
+        "expiration_date": "31-oct-2019",
+        "state": "future"
+    },
     "advancetecmate.com": {
         "epoch": 1594598400,
         "expiration_date": "13-jul-2020",
@@ -1847,7 +1882,7 @@
     "advogados-sao-paulo.com.br": {
         "epoch": 1571011200,
         "expiration_date": "14-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "advokat-med.in.ua": {
         "epoch": 1572048000,
