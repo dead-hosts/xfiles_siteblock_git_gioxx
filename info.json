@@ -1,21 +1,21 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "custom_pyfunceble_config": {
         "adblock": true
     },
     "days_until_next_test": 2.0,
-    "finish_datetime": "2019-10-22T00:23:45.545934",
-    "finish_timestamp": 1571703825.545934,
-    "last_download_datetime": "2019-10-21T17:36:49.011603",
-    "last_download_timestamp": 1571679409.011603,
-    "latest_part_finish_datetime": "2019-10-22T00:23:45.545934",
-    "latest_part_finish_timestamp": 1571703825.545934,
-    "latest_part_start_datetime": "2019-10-22T00:21:27.578435",
-    "latest_part_start_timestamp": 1571703687.578435,
+    "finish_datetime": "1970-01-01T00:00:00",
+    "finish_timestamp": 0.0,
+    "last_download_datetime": "2019-10-25T20:01:40.362254",
+    "last_download_timestamp": 1572033700.362254,
+    "latest_part_finish_datetime": "2019-10-25T20:11:42.007601",
+    "latest_part_finish_timestamp": 1572034302.007601,
+    "latest_part_start_datetime": "2019-10-25T20:01:40.452442",
+    "latest_part_start_timestamp": 1572033700.452442,
     "name": "xfiles_siteblock_git_gioxx",
     "own_management": false,
     "ping": [],
     "raw_link": "https://raw.githubusercontent.com/gioxx/xfiles/master/siteblock.txt",
-    "start_datetime": "2019-10-21T17:36:49.097849",
-    "start_timestamp": 1571679409.097849
+    "start_datetime": "2019-10-25T20:01:40.448889",
+    "start_timestamp": 1572033700.448889
 }
