@@ -13565,9 +13565,9 @@
         "state": "future"
     },
     "emporiofundidos.com.br": {
-        "epoch": 1568419200,
-        "expiration_date": "14-sep-2019",
-        "state": "past"
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
     },
     "emporiomiami.com": {
         "epoch": 1576540800,
@@ -13835,8 +13835,8 @@
         "state": "future"
     },
     "erlivia.ltd": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "ermusiclab.com": {
@@ -14280,8 +14280,8 @@
         "state": "future"
     },
     "evidyabharati.net": {
-        "epoch": 1571788800,
-        "expiration_date": "23-oct-2019",
+        "epoch": 1603411200,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "evlilikfoto.com": {
