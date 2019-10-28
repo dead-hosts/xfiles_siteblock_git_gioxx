@@ -23772,7 +23772,7 @@
     "lfgkyy.com": {
         "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "lgwelding.com": {
         "epoch": 1602806400,
@@ -24712,7 +24712,7 @@
     "lurvemebyizreenazminda.com": {
         "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "lutes.org": {
         "epoch": 1586131200,
@@ -24910,9 +24910,9 @@
         "state": "future"
     },
     "magical-connection.com": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
-        "state": "past"
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
     },
     "magicmaid.co.za": {
         "epoch": 1580428800,
