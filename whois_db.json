@@ -20235,8 +20235,8 @@
         "state": "future"
     },
     "ipktradis.id": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "iposhora.com": {
@@ -21320,8 +21320,8 @@
         "state": "future"
     },
     "jonwillchambers.co.uk": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "joomlaessential.com": {
@@ -21445,8 +21445,8 @@
         "state": "past"
     },
     "jrads.com": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "jrglobaladvisors.com": {
@@ -21662,6 +21662,11 @@
     "juntohru.com": {
         "epoch": 1645142400,
         "expiration_date": "18-feb-2022",
+        "state": "future"
+    },
+    "jusaas.com": {
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "justanalyst.com": {
