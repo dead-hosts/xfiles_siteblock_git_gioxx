@@ -6437,7 +6437,7 @@
     "blacktyres.co": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "blancoyhogar.com.ar": {
         "epoch": 1583020800,
@@ -6470,8 +6470,8 @@
         "state": "future"
     },
     "bleachkon.net": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "blessed2014.com": {
@@ -7125,9 +7125,9 @@
         "state": "past"
     },
     "buatduityoutube.com": {
-        "epoch": 1572220800,
-        "expiration_date": "28-oct-2019",
-        "state": "past"
+        "epoch": 1603843200,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
     },
     "bubbaparis.com": {
         "epoch": 1574899200,
