@@ -5150,9 +5150,9 @@
         "state": "future"
     },
     "bangladeshnewstoday.com": {
-        "epoch": 1564444800,
-        "expiration_date": "30-jul-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "banizeusz.com": {
         "epoch": 1575331200,
@@ -5520,8 +5520,8 @@
         "state": "future"
     },
     "bearsonthemantlepiece.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "beatechnologiesindia.com": {
