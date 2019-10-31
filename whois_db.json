@@ -17074,6 +17074,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "gpfa.pt": {
+        "epoch": 1572652800,
+        "expiration_date": "02-nov-2019",
+        "state": "future"
+    },
     "gpmorrow.com": {
         "epoch": 1579132800,
         "expiration_date": "16-jan-2020",
