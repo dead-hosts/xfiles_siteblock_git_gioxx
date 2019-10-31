@@ -8620,8 +8620,8 @@
         "state": "future"
     },
     "check-updates.net": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "checking-unlock.today": {
@@ -9567,7 +9567,7 @@
     "commercialclasses.com": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "commercialroofingphoenixaz.com": {
         "epoch": 1574985600,
@@ -9860,8 +9860,8 @@
         "state": "future"
     },
     "cooleroni.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "coolgangcountrydancer.com": {
@@ -10157,7 +10157,7 @@
     "cr3ativespace.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "cracks.vg": {
         "epoch": 1602720000,
