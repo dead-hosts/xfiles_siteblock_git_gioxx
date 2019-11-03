@@ -8790,8 +8790,8 @@
         "state": "future"
     },
     "chinaplanning.org": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "chinashadenet.com": {
@@ -9555,9 +9555,9 @@
         "state": "future"
     },
     "comiculture.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "comitecamaqua.com": {
         "epoch": 1603411200,
@@ -9905,8 +9905,8 @@
         "state": "past"
     },
     "copticpope.org": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "copy.social": {
@@ -9947,6 +9947,11 @@
     "corpoclinico.med.br": {
         "epoch": 1583625600,
         "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "corporacionrossenditotours.com": {
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "corporateinsuranceservice.com": {
@@ -10062,7 +10067,7 @@
     "couturebridaldesignsltd.co.uk": {
         "epoch": 1572566400,
         "expiration_date": "01-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "covainagaratharilaingarsangam.com": {
         "epoch": 1575072000,
@@ -10155,9 +10160,9 @@
         "state": "future"
     },
     "cr3ativespace.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "cracks.vg": {
         "epoch": 1602720000,
