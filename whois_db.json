@@ -3485,8 +3485,8 @@
         "state": "future"
     },
     "ansiway.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "answerforlife.com": {
@@ -3735,8 +3735,8 @@
         "state": "future"
     },
     "appieid-verify.com": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "appimmobilier.com": {
@@ -4040,9 +4040,9 @@
         "state": "future"
     },
     "arjawa.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "arjunainvestment.com": {
         "epoch": 1595030400,
@@ -4607,7 +4607,7 @@
     "auraatrends.com": {
         "epoch": 1572739200,
         "expiration_date": "03-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "aurinkoharju.fi": {
         "epoch": 1610323200,
