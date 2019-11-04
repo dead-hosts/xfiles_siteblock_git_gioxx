@@ -4494,6 +4494,11 @@
         "expiration_date": "06-dec-2019",
         "state": "future"
     },
+    "atlantic-dimension.pt": {
+        "epoch": 1662422400,
+        "expiration_date": "06-sep-2022",
+        "state": "future"
+    },
     "atlanticinternational.ca": {
         "epoch": 1600041600,
         "expiration_date": "14-sep-2020",
@@ -4605,9 +4610,9 @@
         "state": "future"
     },
     "auraatrends.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
-        "state": "past"
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
     },
     "aurinkoharju.fi": {
         "epoch": 1610323200,
@@ -5635,8 +5640,8 @@
         "state": "future"
     },
     "befenchy.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "beginguard.net": {
