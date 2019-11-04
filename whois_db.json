@@ -16464,6 +16464,11 @@
         "expiration_date": "12-nov-2019",
         "state": "future"
     },
+    "get-eth-now.com": {
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
     "getamobilesite.com": {
         "epoch": 1579651200,
         "expiration_date": "22-jan-2020",
@@ -25192,7 +25197,7 @@
     "manosmorenas.com.ar": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "manpoweragencypro.com": {
         "epoch": 1599436800,
@@ -25415,9 +25420,9 @@
         "state": "future"
     },
     "martinsfieldofdreams.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
-        "state": "past"
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
     },
     "maruthiresources.com": {
         "epoch": 1577750400,
@@ -25510,8 +25515,8 @@
         "state": "future"
     },
     "matchingdatings.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "mathskins.com": {
