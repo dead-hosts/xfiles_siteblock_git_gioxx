@@ -200,9 +200,9 @@
         "state": "future"
     },
     "166e61.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
-        "state": "past"
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
     },
     "1688.se": {
         "epoch": 1584576000,
@@ -1385,8 +1385,8 @@
         "state": "future"
     },
     "accesoriosmarinos.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "access-security-account.com": {
@@ -1745,8 +1745,8 @@
         "state": "future"
     },
     "admixdj.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "adnanlightdecor.com": {
