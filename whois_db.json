@@ -667,7 +667,7 @@
     "51youhua.org": {
         "epoch": 1574467200.0,
         "expiration_date": "23-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "51ysxs.com": {
         "epoch": 1601596800.0,
@@ -2600,8 +2600,8 @@
         "state": "future"
     },
     "alexandra-connor.com": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
         "state": "future"
     },
     "alexandrarotary.com": {
@@ -2970,8 +2970,8 @@
         "state": "future"
     },
     "alumaxgroup.in": {
-        "epoch": 1574380800.0,
-        "expiration_date": "22-nov-2019",
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
         "state": "future"
     },
     "aluteksa.com": {
