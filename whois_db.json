@@ -17195,8 +17195,8 @@
         "state": "future"
     },
     "goodphpprogrammer.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "goodshops99.net": {
@@ -18852,7 +18852,7 @@
     "hoaoyo.com": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "hoatuoidanghoa.com": {
         "epoch": 1582588800.0,
