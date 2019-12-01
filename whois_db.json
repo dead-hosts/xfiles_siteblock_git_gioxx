@@ -1962,7 +1962,7 @@
     "afmicro.com": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "afmtechnosciences.com.ng": {
         "epoch": 1577491200.0,
@@ -2895,8 +2895,8 @@
         "state": "future"
     },
     "alpinista.szczecin.pl": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "alrakhaa.com": {
@@ -3260,8 +3260,8 @@
         "state": "future"
     },
     "anandvansansthan.org": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "ananyafashion.com": {
@@ -3432,7 +3432,7 @@
     "anna-mc.ru": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "annamidly.com": {
         "epoch": 1597449600.0,
