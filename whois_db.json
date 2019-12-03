@@ -13222,7 +13222,7 @@
     "eggfred.com": {
         "epoch": 1575331200.0,
         "expiration_date": "03-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "egitimcisitesi.com": {
         "epoch": 1600560000.0,
