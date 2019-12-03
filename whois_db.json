@@ -41745,8 +41745,8 @@
         "state": "future"
     },
     "viajestabascochavos.com": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "viatraderh.com.br": {
@@ -41757,7 +41757,7 @@
     "vibepartiesonline.com": {
         "epoch": 1575331200.0,
         "expiration_date": "03-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "viceschool.ca": {
         "epoch": 1587772800.0,
