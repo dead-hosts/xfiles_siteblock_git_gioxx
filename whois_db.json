@@ -155,8 +155,8 @@
         "state": "future"
     },
     "1010fz.com": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "101homeschool.com": {
@@ -1165,9 +1165,9 @@
         "state": "future"
     },
     "aac-aaic.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
-        "state": "past"
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
     },
     "aacihealthcare.com": {
         "epoch": 1580860800.0,
@@ -1295,8 +1295,8 @@
         "state": "future"
     },
     "abexerciserreviews.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "abgreen.com.br": {
