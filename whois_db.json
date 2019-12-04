@@ -15135,8 +15135,8 @@
         "state": "future"
     },
     "finansoweigraszki.net": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "finanzu.com": {
@@ -15895,9 +15895,9 @@
         "state": "future"
     },
     "fs-11.com": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
-        "state": "past"
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
     },
     "fscollegeofnursing.com": {
         "epoch": 1602460800.0,
