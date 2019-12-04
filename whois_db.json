@@ -6817,7 +6817,7 @@
     "bosqueselocoyan.cl": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "bossenapan.co.id": {
         "epoch": 1597536000.0,
@@ -6990,8 +6990,8 @@
         "state": "future"
     },
     "bratfeldt.com": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "brawalshipping.com": {
@@ -7950,8 +7950,8 @@
         "state": "future"
     },
     "carlaellis.com": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "carlahendricksforhair.com": {
