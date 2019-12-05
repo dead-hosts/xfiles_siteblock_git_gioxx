@@ -25135,9 +25135,9 @@
         "state": "future"
     },
     "lucanminorhockey.com": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
-        "state": "past"
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
     },
     "lucasweb.com.br": {
         "epoch": 1737417600.0,
@@ -25485,8 +25485,8 @@
         "state": "future"
     },
     "magicmembershelp.com": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "magicmyphotos.com": {
@@ -25707,7 +25707,7 @@
     "mangguo.info": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "mangnejo.com": {
         "epoch": 1631318400.0,
