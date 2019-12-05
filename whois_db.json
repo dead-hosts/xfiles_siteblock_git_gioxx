@@ -2807,7 +2807,7 @@
     "allstarfestival.com": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "alltraff.ru": {
         "epoch": 1603756800.0,
@@ -3430,9 +3430,9 @@
         "state": "future"
     },
     "anna-mc.ru": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
     },
     "annamidly.com": {
         "epoch": 1597449600.0,
