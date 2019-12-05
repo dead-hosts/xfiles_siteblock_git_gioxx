@@ -18505,9 +18505,9 @@
         "state": "future"
     },
     "helpkaden.org": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
-        "state": "past"
+        "epoch": 1638576000.0,
+        "expiration_date": "04-dec-2021",
+        "state": "future"
     },
     "helplimits.com": {
         "epoch": 1599868800.0,
@@ -18695,8 +18695,8 @@
         "state": "future"
     },
     "highspeedcouriers.com": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "hihimn.com": {
@@ -18947,7 +18947,7 @@
     "homecctvkit.com": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "homecraftfurniture.com": {
         "epoch": 1631750400.0,
