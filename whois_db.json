@@ -40510,8 +40510,8 @@
         "state": "future"
     },
     "truhealthprod.com": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "trustpharmastore.com": {
@@ -41045,9 +41045,9 @@
         "state": "future"
     },
     "uniquebusinesscardholders.com": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
-        "state": "past"
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
     },
     "unitechmetalindoperkasa.com": {
         "epoch": 1602028800.0,
