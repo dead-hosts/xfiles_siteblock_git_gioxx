@@ -22737,7 +22737,7 @@
     "keysbeachbungalows.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "keysclipper.net": {
         "epoch": 1582848000.0,
@@ -23217,7 +23217,7 @@
     "koromias.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "korpimaanvalo.fi": {
         "epoch": 1610064000.0,
