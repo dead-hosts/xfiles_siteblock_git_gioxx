@@ -4510,9 +4510,9 @@
         "state": "future"
     },
     "atlantaautoinjuryattorneys.com": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
-        "state": "past"
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     },
     "atlantic-dimension.pt": {
         "epoch": 1662422400.0,
@@ -4672,7 +4672,7 @@
     "ausubelinstituto.edu.mx": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "auth-creditagricole.com": {
         "epoch": 1563840000,
@@ -4710,8 +4710,8 @@
         "state": "future"
     },
     "autodrim.pl": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "autofinanziamento.it": {
@@ -5442,7 +5442,7 @@
     "bbpsldh.org": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "bbsimplifica.com.br": {
         "epoch": 1592956800.0,
