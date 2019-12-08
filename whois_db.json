@@ -9534,6 +9534,11 @@
         "expiration_date": "09-jan-2020",
         "state": "future"
     },
+    "collegesavngsiowa.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
     "collidach.co.uk": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
@@ -10395,8 +10400,8 @@
         "state": "future"
     },
     "crush5media.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "cryptoairdrop.center": {
@@ -10962,7 +10967,7 @@
     "darkstratus.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "darrellklar.com": {
         "epoch": 1585958400.0,
