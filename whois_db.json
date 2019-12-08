@@ -6265,9 +6265,9 @@
         "state": "future"
     },
     "bitcoingenerator.space": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
-        "state": "past"
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
     },
     "bitcoinsmsxpress.com": {
         "epoch": 1563321600,
@@ -7142,7 +7142,7 @@
     "bsbmotorswakefield.co.uk": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "bsmax.fr": {
         "epoch": 1585526400.0,
