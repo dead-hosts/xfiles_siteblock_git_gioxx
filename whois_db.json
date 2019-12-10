@@ -31710,8 +31710,8 @@
         "state": "future"
     },
     "plutopac.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "pmvmaltings.com": {
@@ -32127,7 +32127,7 @@
     "preconhsa.com": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "precytec.com.ar": {
         "epoch": 1603324800.0,
