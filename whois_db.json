@@ -4670,9 +4670,9 @@
         "state": "future"
     },
     "ausubelinstituto.edu.mx": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
-        "state": "past"
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
     },
     "auth-creditagricole.com": {
         "epoch": 1563840000,
@@ -5025,9 +5025,9 @@
         "state": "future"
     },
     "babysteadygo.com": {
-        "epoch": 1562716800,
-        "expiration_date": "10-jul-2019",
-        "state": "past"
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
     },
     "babyyourpooch.com": {
         "epoch": 1587600000.0,
