@@ -7519,6 +7519,11 @@
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
+    "caharthenret.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "cahenry.com": {
         "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
@@ -8560,8 +8565,8 @@
         "state": "future"
     },
     "chambercalibrationservices.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "chamberstimber.com": {
