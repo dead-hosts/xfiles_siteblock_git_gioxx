@@ -22740,9 +22740,9 @@
         "state": "past"
     },
     "keysbeachbungalows.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "keysclipper.net": {
         "epoch": 1582848000.0,
@@ -22910,8 +22910,8 @@
         "state": "future"
     },
     "kingspointhrtraining.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "kingstonthepug.com": {
@@ -23015,8 +23015,8 @@
         "state": "future"
     },
     "kkd-consulting.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "kkokkoyaa.com": {
@@ -23220,9 +23220,9 @@
         "state": "future"
     },
     "koromias.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "korpimaanvalo.fi": {
         "epoch": 1610064000.0,
