@@ -4237,7 +4237,7 @@
     "artsconsortium.org": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "artwatchghana.org": {
         "epoch": 1593129600.0,
@@ -25185,8 +25185,8 @@
         "state": "future"
     },
     "luckyclean.info": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "luckyclear.info": {
@@ -25225,8 +25225,8 @@
         "state": "future"
     },
     "luckysure.info": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "luckytidy.info": {
@@ -44440,9 +44440,9 @@
         "state": "future"
     },
     "zeroclan.net": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "zfb2015.com": {
         "epoch": 1606608000.0,
