@@ -38964,6 +38964,11 @@
         "expiration_date": "15-apr-2020",
         "state": "future"
     },
+    "tempanalise.pt": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
     "templatesbay.com": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
@@ -40825,8 +40830,8 @@
         "state": "future"
     },
     "tygrove.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1670716800.0,
+        "expiration_date": "11-dec-2022",
         "state": "future"
     },
     "typeofmarijuana.com": {
