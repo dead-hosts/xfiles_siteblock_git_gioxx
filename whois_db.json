@@ -25485,8 +25485,8 @@
         "state": "future"
     },
     "magentofa.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "maggivox.com": {
@@ -25537,7 +25537,7 @@
     "mahalaxmimachines.com": {
         "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "mahindrainsurance.com": {
         "epoch": 1605571200.0,
