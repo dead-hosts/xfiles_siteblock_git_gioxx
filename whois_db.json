@@ -11789,6 +11789,11 @@
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "digitaltech.tech": {
+        "epoch": 1593993600.0,
+        "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
     "digitalwebcastillo.com": {
         "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
@@ -12095,8 +12100,8 @@
         "state": "future"
     },
     "docecreativo.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "docquotations.com": {
