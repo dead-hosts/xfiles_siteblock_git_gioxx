@@ -4235,9 +4235,9 @@
         "state": "future"
     },
     "artsconsortium.org": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
-        "state": "past"
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
     },
     "artwatchghana.org": {
         "epoch": 1593129600.0,
@@ -42162,7 +42162,7 @@
     "vivaweb.org": {
         "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "vivemejor.org": {
         "epoch": 1598745600.0,
