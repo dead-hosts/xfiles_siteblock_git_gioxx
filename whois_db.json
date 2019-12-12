@@ -3614,6 +3614,11 @@
         "expiration_date": "03-aug-2022",
         "state": "future"
     },
+    "aoyongworld.com": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
     "aparateauditiveploiesti.ro": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
@@ -3777,6 +3782,11 @@
     "apple-es.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
+    "apple-find-device.com": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
         "state": "future"
     },
     "apple-icloud-location.com": {
@@ -4097,6 +4107,11 @@
     "arkmeditech.com": {
         "epoch": 1601510400.0,
         "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
+    "armadaneo.info": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "armaninofoods.com": {
@@ -4968,6 +4983,11 @@
         "epoch": 1564876800,
         "expiration_date": "04-aug-2019",
         "state": "past"
+    },
+    "ayodhyaguesthouse.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
     },
     "ayoliburan.co.id": {
         "epoch": 1612051200.0,
