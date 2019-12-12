@@ -11910,8 +11910,8 @@
         "state": "future"
     },
     "dintecsistema.com.br": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1670803200.0,
+        "expiration_date": "12-dec-2022",
         "state": "future"
     },
     "dionneg.com": {
@@ -12625,9 +12625,9 @@
         "state": "future"
     },
     "drymagazine.com.br": {
-        "epoch": 1569542400.0,
-        "expiration_date": "27-sep-2019",
-        "state": "past"
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
     },
     "drywallexpo.com": {
         "epoch": 1597363200.0,
@@ -12707,6 +12707,11 @@
     "duinearme.com": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "duketofrob.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "duniagaya.id": {
@@ -13390,9 +13395,9 @@
         "state": "future"
     },
     "elas.cl": {
-        "epoch": 1566950400,
-        "expiration_date": "28-aug-2019",
-        "state": "past"
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
     },
     "elb-academy.com": {
         "epoch": 1602115200.0,
@@ -13530,8 +13535,8 @@
         "state": "past"
     },
     "elitegenerator.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "elithavuzculuk.com": {
