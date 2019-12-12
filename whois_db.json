@@ -17310,7 +17310,7 @@
         "state": "future"
     },
     "goog1eanalitics.pw": {
-        "epoch": 1489276800,
+        "epoch": 1489276800.0,
         "expiration_date": "12-mar-2017",
         "state": "past"
     },
@@ -17382,6 +17382,11 @@
     "gotovimdetyam.ru": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "gotsurievent.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "gottagofishinginkeywest.com": {
@@ -18364,6 +18369,11 @@
         "expiration_date": "29-mar-2022",
         "state": "future"
     },
+    "hbtindia.co.in": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
+        "state": "future"
+    },
     "hbw7.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
@@ -18724,6 +18734,11 @@
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
+    "herttannarit.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "hesaponay.com": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
@@ -18862,6 +18877,11 @@
     "historicinnsandwatersports.com": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "hitbtc.biz": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "hitdesignworks.com": {
