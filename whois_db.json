@@ -26479,6 +26479,11 @@
         "expiration_date": "14-oct-2020",
         "state": "future"
     },
+    "mediamarket.in.ua": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
+        "state": "future"
+    },
     "medicalfastdeal.com": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
@@ -26704,6 +26709,11 @@
         "expiration_date": "20-jun-2023",
         "state": "future"
     },
+    "meradaska.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
     "mercadbitcoins.com": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
@@ -26875,8 +26885,8 @@
         "state": "future"
     },
     "mgm88tv.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "mgscw.com": {
@@ -27012,6 +27022,11 @@
     "milanoitalysrl.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "militaryapp.net": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
         "state": "future"
     },
     "milkpeda.com": {
@@ -27667,6 +27682,11 @@
     "morningdiaries.com": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "moroccomills.com": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "morpheus.com.tr": {
