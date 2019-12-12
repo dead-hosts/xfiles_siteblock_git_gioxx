@@ -2104,6 +2104,11 @@
         "expiration_date": "27-dec-2019",
         "state": "future"
     },
+    "agromilenio.pt": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
     "agronutrientes.com.mx": {
         "epoch": 1730160000.0,
         "expiration_date": "29-oct-2024",
@@ -3259,6 +3264,11 @@
         "expiration_date": "28-sep-2020",
         "state": "future"
     },
+    "anandayu.com": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
     "anandvansansthan.org": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
@@ -3380,9 +3390,9 @@
         "state": "future"
     },
     "animart-design.co.uk": {
-        "epoch": 1574985600.0,
-        "expiration_date": "29-nov-2019",
-        "state": "past"
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
     },
     "anime-revolution.info": {
         "epoch": 1600128000.0,
@@ -3447,7 +3457,7 @@
     "annatourism.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "annengdl.com": {
         "epoch": 1583193600.0,
