@@ -30039,6 +30039,11 @@
         "expiration_date": "14-jul-2019",
         "state": "past"
     },
+    "ofertasnatalinas.com": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
     "ofertools.com": {
         "epoch": 1562544000,
         "expiration_date": "08-jul-2019",
@@ -30120,8 +30125,8 @@
         "state": "future"
     },
     "okblockmachine.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "okboobs.com": {
@@ -30460,8 +30465,8 @@
         "state": "future"
     },
     "originkinetics.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
         "state": "future"
     },
     "orimconsulting.com": {
