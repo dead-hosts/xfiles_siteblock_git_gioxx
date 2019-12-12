@@ -3255,7 +3255,6 @@
             "flouuzmediatiak.bawaberita.com": "INACTIVE",
             "flppy.sakinadirect.com": "INACTIVE",
             "flukebiomedicai.com": "INACTIVE",
-            "flybyrecymycqlt.usa.cc": "INACTIVE",
             "fmcasaba.com": "INACTIVE",
             "fmi-info-apple.xyz": "INACTIVE",
             "fmi-location-support.com": "INACTIVE",
@@ -3492,7 +3491,6 @@
             "genevashop.it": "INACTIVE",
             "genih-i-nevesta.ru": "INACTIVE",
             "gentlemantrouble.net": "INACTIVE",
-            "geoffshannon.com.au": "INACTIVE",
             "geometrica-design.co.uk": "INACTIVE",
             "geometriksconferencesdisques.com": "INACTIVE",
             "georgetajacquelyn.su": "INACTIVE",
@@ -13562,9 +13560,6 @@
         "1572896682": {
             "fidta.win": "INACTIVE"
         },
-        "1572896706": {
-            "fj.hmtcn.com": "INACTIVE"
-        },
         "1572896707": {
             "fomorfshop.trade": "INACTIVE"
         },
@@ -13574,23 +13569,11 @@
         "1572896713": {
             "freebysnes.ru": "INACTIVE"
         },
-        "1572896719": {
-            "frt2354.wixsite.com": "INACTIVE"
-        },
         "1572896721": {
             "furtuosoadvogados.com.br": "INACTIVE"
         },
-        "1572896730": {
-            "gerenfa.chungcheng.net": "INACTIVE"
-        },
         "1572896744": {
             "gigamania.pt": "INACTIVE"
-        },
-        "1572896752": {
-            "gjhgjgfhgfh.us.to": "INACTIVE"
-        },
-        "1572896759": {
-            "gjhjghfgh.us.to": "INACTIVE"
         },
         "1572896762": {
             "global-cc-alliance.com.piston.futoka.jp": "INACTIVE"
@@ -14574,46 +14557,15 @@
         "1576079356": {
             "exigostrategic.ro": "INACTIVE",
             "facebook.dk7wireless.net": "INACTIVE",
-            "fb-account-control.hoibangai.com": "INACTIVE",
-            "find-my-iphone-me.com": "INACTIVE",
-            "firvsarror.info": "INACTIVE",
-            "fknkdd12.com": "INACTIVE"
+            "fb-account-control.hoibangai.com": "INACTIVE"
         },
         "1576079357": {
-            "flashblocks.io": "INACTIVE",
-            "flixnetmovi.com": "INACTIVE",
-            "fobertinia.com": "INACTIVE",
-            "fqwdqw4d4.com": "INACTIVE",
-            "fr-espaceclients-orange.com": "INACTIVE",
-            "fr-espaceclientscv3-orange.com": "INACTIVE",
-            "frandoumanusses.com": "INACTIVE",
-            "freewl.xinhua800.cn": "INACTIVE",
-            "freshfence.net": "INACTIVE",
-            "frontiertradegroup.com": "INACTIVE",
-            "fserisomaterkd.info": "INACTIVE",
-            "fsreamnslodp.org": "INACTIVE"
+            "freewl.xinhua800.cn": "INACTIVE"
         },
         "1576080702": {
-            "galaxyinvi.com": "INACTIVE",
-            "garanti-bireysel-islem.com": "INACTIVE",
-            "garanti-internetgiris.com": "INACTIVE",
-            "gatochaman.com": "INACTIVE",
-            "gavih.org": "INACTIVE",
-            "geafkae.info": "INACTIVE",
-            "geni.anas.it": "INACTIVE",
-            "geoross.com": "INACTIVE",
-            "germnertx.com": "INACTIVE",
-            "get-5000eth.com": "INACTIVE",
-            "girdlelipschitz.com": "INACTIVE",
-            "giveaway-eth.com": "INACTIVE",
-            "gjconsultorias.com": "INACTIVE"
+            "geni.anas.it": "INACTIVE"
         },
         "1576080703": {
-            "glassinside.net": "INACTIVE",
-            "glennarmstrongmembership.com": "INACTIVE",
-            "globallogisticsunit.com": "INACTIVE",
-            "globlacargoshipping.com": "INACTIVE",
-            "glowtrawler.com": "INACTIVE",
             "gogle-drive.com": "INACTIVE",
             "goldenstatebuilding.info": "INACTIVE",
             "golosovanie.info": "INACTIVE",
@@ -15747,6 +15699,77 @@
             "fidoetpay.com": "INACTIVE",
             "fidolivelalop.com": "INACTIVE",
             "fightingcancer.net": "INACTIVE"
+        },
+        "1576175117": {
+            "find-my-iphone-me.com": "INACTIVE"
+        },
+        "1576175119": {
+            "firvsarror.info": "INACTIVE"
+        },
+        "1576175121": {
+            "fknkdd12.com": "INACTIVE",
+            "flashblocks.io": "INACTIVE"
+        },
+        "1576175122": {
+            "flixnetmovi.com": "INACTIVE"
+        },
+        "1576175124": {
+            "fobertinia.com": "INACTIVE"
+        },
+        "1576175128": {
+            "fqwdqw4d4.com": "INACTIVE",
+            "frandoumanusses.com": "INACTIVE"
+        },
+        "1576175131": {
+            "fr-espaceclients-orange.com": "INACTIVE",
+            "fr-espaceclientscv3-orange.com": "INACTIVE",
+            "freshfence.net": "INACTIVE",
+            "frontiertradegroup.com": "INACTIVE"
+        },
+        "1576175132": {
+            "fserisomaterkd.info": "INACTIVE",
+            "fsreamnslodp.org": "INACTIVE"
+        },
+        "1576175138": {
+            "galaxyinvi.com": "INACTIVE"
+        },
+        "1576175139": {
+            "garanti-bireysel-islem.com": "INACTIVE",
+            "garanti-internetgiris.com": "INACTIVE"
+        },
+        "1576175141": {
+            "gatochaman.com": "INACTIVE",
+            "gavih.org": "INACTIVE"
+        },
+        "1576175143": {
+            "geafkae.info": "INACTIVE"
+        },
+        "1576175146": {
+            "geoross.com": "INACTIVE",
+            "germnertx.com": "INACTIVE"
+        },
+        "1576175147": {
+            "get-5000eth.com": "INACTIVE"
+        },
+        "1576175149": {
+            "girdlelipschitz.com": "INACTIVE"
+        },
+        "1576175150": {
+            "giveaway-eth.com": "INACTIVE"
+        },
+        "1576175151": {
+            "gjconsultorias.com": "INACTIVE"
+        },
+        "1576175152": {
+            "glassinside.net": "INACTIVE",
+            "glennarmstrongmembership.com": "INACTIVE"
+        },
+        "1576175153": {
+            "globallogisticsunit.com": "INACTIVE",
+            "globlacargoshipping.com": "INACTIVE"
+        },
+        "1576175154": {
+            "glowtrawler.com": "INACTIVE"
         }
     }
 }
