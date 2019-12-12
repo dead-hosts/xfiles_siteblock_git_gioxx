@@ -5149,6 +5149,11 @@
         "expiration_date": "03-mar-2020",
         "state": "future"
     },
+    "balochrise.com": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
     "baluweb.com.br": {
         "epoch": 1569024000.0,
         "expiration_date": "21-sep-2019",
@@ -6004,6 +6009,11 @@
         "expiration_date": "09-jun-2020",
         "state": "future"
     },
+    "bfoak.com": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
     "bfsdaservices.co.uk": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
@@ -6069,6 +6079,11 @@
         "expiration_date": "19-sep-2020",
         "state": "future"
     },
+    "bigbazzarbd.com": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
     "bigdaddyjapan.com": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
@@ -6085,9 +6100,9 @@
         "state": "future"
     },
     "bigmagbag.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
-        "state": "past"
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
     },
     "bigmind.info": {
         "epoch": 1594598400.0,
@@ -6345,9 +6360,9 @@
         "state": "future"
     },
     "biznettvigator.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
-        "state": "past"
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
     },
     "bizzibeans.net": {
         "epoch": 1635897600.0,
@@ -6362,7 +6377,7 @@
     "bjd-garden.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "bjdenon.com": {
         "epoch": 1588723200.0,
