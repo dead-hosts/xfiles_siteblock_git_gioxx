@@ -11352,7 +11352,7 @@
     "deliverkart.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "deliveryflightpath.com": {
         "epoch": 1601251200.0,
@@ -11484,6 +11484,11 @@
         "expiration_date": "16-apr-2020",
         "state": "future"
     },
+    "derekthedp.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
     "derkompass.com.br": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
@@ -11612,7 +11617,7 @@
     "devblaze.work": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "devdevelopers56.com": {
         "epoch": 1591488000.0,
