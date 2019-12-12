@@ -13654,6 +13654,11 @@
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
+    "emadzakaria.com": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
     "email-google.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
@@ -14079,6 +14084,11 @@
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
+    "esepc.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "eslanto.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
@@ -14344,6 +14354,11 @@
         "expiration_date": "14-dec-2019",
         "state": "future"
     },
+    "ettoldketru.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "etxlzx.net": {
         "epoch": 1616457600.0,
         "expiration_date": "23-mar-2021",
@@ -14357,6 +14372,11 @@
     "euclideinvestments.com": {
         "epoch": 1586390400.0,
         "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "euforiafryz.pl": {
+        "epoch": 1576972800.0,
+        "expiration_date": "22-dec-2019",
         "state": "future"
     },
     "eugenebhangra.com": {
