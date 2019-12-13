@@ -33225,9 +33225,9 @@
         "state": "future"
     },
     "raffaelli.com.br": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "rafidcohen.com": {
         "epoch": 1601251200.0,
@@ -33965,9 +33965,9 @@
         "state": "future"
     },
     "restaurant-lapasserelle.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
-        "state": "past"
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
     },
     "restaurantesdesanmiguel.com": {
         "epoch": 1607731200.0,
@@ -34320,8 +34320,8 @@
         "state": "future"
     },
     "robertfrumento.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "robertoalvarado.com": {
@@ -34330,8 +34330,8 @@
         "state": "future"
     },
     "robertpomorski.com.pl": {
-        "epoch": 1570752000,
-        "expiration_date": "11-oct-2019",
+        "epoch": 1576454400.0,
+        "expiration_date": "16-dec-2019",
         "state": "future"
     },
     "robertwebsterministries.org": {
@@ -34719,6 +34719,11 @@
         "expiration_date": "06-mar-2020",
         "state": "future"
     },
+    "rvfwqsekd.com": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
     "rvweigh.com": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
@@ -34757,6 +34762,11 @@
     "sa-vision.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "sa7tk.com": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
         "state": "future"
     },
     "saafarihotels.com": {
