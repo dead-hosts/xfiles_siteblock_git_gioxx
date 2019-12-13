@@ -39899,6 +39899,11 @@
         "expiration_date": "30-jul-2020",
         "state": "future"
     },
+    "thewritersniche.com": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
     "thexdc.com": {
         "epoch": 1624838400.0,
         "expiration_date": "28-jun-2021",
@@ -40224,6 +40229,11 @@
         "expiration_date": "13-mar-2020",
         "state": "future"
     },
+    "tokentelegram.net": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
     "tokogrosirindonesia.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
@@ -40307,7 +40317,7 @@
     "topcioski.mk": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "topconmodels.com": {
         "epoch": 1576627200.0,
@@ -40362,6 +40372,11 @@
     "toponlineagent.com": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
+    "topproductsusa.com": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "topwinnerglobal.com": {
@@ -40489,6 +40504,11 @@
         "expiration_date": "14-jun-2020",
         "state": "future"
     },
+    "tph-gion.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "tpreiasanantonio.net": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
@@ -40502,6 +40522,11 @@
     "tpwelectrical.co.uk": {
         "epoch": 1607904000.0,
         "expiration_date": "14-dec-2020",
+        "state": "future"
+    },
+    "tqglobalservices.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "tr-binance.com": {
@@ -40767,6 +40792,11 @@
     "trtsport.cz": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
+    "trucap.co.za": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "truckersemanifest.com": {
