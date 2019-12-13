@@ -38149,6 +38149,11 @@
         "expiration_date": "02-mar-2023",
         "state": "future"
     },
+    "sumohimbe.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "sumsunmotor.com": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
@@ -39185,8 +39190,8 @@
         "state": "future"
     },
     "telusurnews.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "temizliyorum.com": {
