@@ -37100,9 +37100,9 @@
         "state": "future"
     },
     "sociedadcolombianadefisica.org.co": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
-        "state": "past"
+        "epoch": 1639180800.0,
+        "expiration_date": "11-dec-2021",
+        "state": "future"
     },
     "sociedadfotografos.com": {
         "epoch": 1606003200.0,
@@ -37369,6 +37369,11 @@
         "expiration_date": "03-jul-2020",
         "state": "future"
     },
+    "source-games.ru": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
+        "state": "future"
+    },
     "sourcelemon.com": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
@@ -37382,7 +37387,7 @@
     "southernoutdoorproducts.com": {
         "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "southsidedeals.com": {
         "epoch": 1592784000.0,
@@ -37402,6 +37407,11 @@
     "spacesarchitects-ka.com": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
+    "sparkasse-onlinebanking.info": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
         "state": "future"
     },
     "sparrows.pl": {
@@ -37832,6 +37842,11 @@
     "stmatthewsnj.org": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "stock-pro.info": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "stock5188.com": {
