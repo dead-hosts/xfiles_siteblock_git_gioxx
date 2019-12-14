@@ -39077,7 +39077,7 @@
     "tea-tray.com": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "teamamerika.org": {
         "epoch": 1579478400.0,
@@ -40219,6 +40219,11 @@
         "expiration_date": "26-mar-2020",
         "state": "future"
     },
+    "timmillard.us": {
+        "epoch": 1576540800.0,
+        "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
     "timorlesone.id": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
@@ -40392,6 +40397,11 @@
     "tonetteveiculos.com.br": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
+    "tongjii.us": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "tonhushop.com": {
