@@ -3465,9 +3465,9 @@
         "state": "future"
     },
     "annatourism.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "annengdl.com": {
         "epoch": 1583193600.0,
@@ -4567,6 +4567,11 @@
     "atlashealthcare.ca": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
+    "atlastransportation.us": {
+        "epoch": 1581206400.0,
+        "expiration_date": "09-feb-2020",
         "state": "future"
     },
     "atlcourier.com": {
