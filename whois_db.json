@@ -1939,6 +1939,11 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "aerocommunications.us": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
     "aetruckmaint.com": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
@@ -3048,6 +3053,11 @@
         "epoch": 1563494400,
         "expiration_date": "19-jul-2019",
         "state": "past"
+    },
+    "ambasada.us": {
+        "epoch": 1579305600.0,
+        "expiration_date": "18-jan-2020",
+        "state": "future"
     },
     "ambasadarozrywki.pl": {
         "epoch": 1605484800.0,
