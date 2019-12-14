@@ -10909,6 +10909,11 @@
         "expiration_date": "20-sep-2020",
         "state": "future"
     },
+    "dailysports.us": {
+        "epoch": 1596153600.0,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
     "daima.co.tz": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
@@ -11365,9 +11370,9 @@
         "state": "future"
     },
     "deliverkart.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "deliveryflightpath.com": {
         "epoch": 1601251200.0,
@@ -11630,9 +11635,9 @@
         "state": "future"
     },
     "devblaze.work": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "devdevelopers56.com": {
         "epoch": 1591488000.0,
@@ -11995,8 +12000,8 @@
         "state": "future"
     },
     "dirtyhipstertube.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "dirtyrocknroll.com": {
@@ -12007,6 +12012,11 @@
     "discountedtourism.com": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "discountsfor.us": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "discoverca.net": {
