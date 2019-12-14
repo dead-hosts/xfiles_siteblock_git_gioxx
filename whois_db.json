@@ -28750,9 +28750,9 @@
         "state": "future"
     },
     "mypomptonlakesnj.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "myprettydog.com": {
         "epoch": 1585872000.0,
@@ -28820,9 +28820,9 @@
         "state": "future"
     },
     "mysweetsoftware2.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "mythic-coaching.com": {
         "epoch": 1579564800.0,
@@ -29359,6 +29359,11 @@
         "expiration_date": "08-may-2020",
         "state": "future"
     },
+    "newtypeinstallliteflash.icu": {
+        "epoch": 1578268800.0,
+        "expiration_date": "06-jan-2020",
+        "state": "future"
+    },
     "newvanleasing.co.uk": {
         "epoch": 1636588800.0,
         "expiration_date": "11-nov-2021",
@@ -29792,6 +29797,11 @@
     "notarius.com.mk": {
         "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
+    "note.us": {
+        "epoch": 1590969600.0,
+        "expiration_date": "01-jun-2020",
         "state": "future"
     },
     "notecountry.com": {
