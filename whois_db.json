@@ -14054,6 +14054,11 @@
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
+    "ericmaddox.us": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
+        "state": "future"
+    },
     "erinhphotography.com": {
         "epoch": 1606003200.0,
         "expiration_date": "22-nov-2020",
@@ -14385,8 +14390,8 @@
         "state": "future"
     },
     "etstemizlik.com": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "ettoldketru.com": {
@@ -14485,8 +14490,8 @@
         "state": "future"
     },
     "eventclergy.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "eventosarc.com": {
@@ -14505,8 +14510,8 @@
         "state": "future"
     },
     "evergreencorato.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "evergreenfacilitysolutions.com": {
@@ -14872,7 +14877,7 @@
     "familyfarma.it": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "familylawbarrister.org": {
         "epoch": 1622332800.0,
