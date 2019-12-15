@@ -42519,6 +42519,11 @@
         "expiration_date": "08-oct-2020",
         "state": "future"
     },
+    "vistatech.us": {
+        "epoch": 1597017600.0,
+        "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
     "vistome.com.br": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
@@ -42637,6 +42642,11 @@
     "vmtvoting.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
+    "vocational-training.us": {
+        "epoch": 1587686400.0,
+        "expiration_date": "24-apr-2020",
         "state": "future"
     },
     "vodafone-nederland.com": {
