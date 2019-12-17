@@ -42017,7 +42017,7 @@
     "velhoranzinza.com.br": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "velingrad.info": {
         "epoch": 1583280000.0,
@@ -42472,7 +42472,7 @@
     "virtualvarejo.com": {
         "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "visaconstruction.co.uk": {
         "epoch": 1571875200.0,
@@ -42595,8 +42595,8 @@
         "state": "past"
     },
     "vitorianostudios.com.br": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "vivafascino.com": {
@@ -42855,8 +42855,8 @@
         "state": "future"
     },
     "walklight.net": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "wallacecollisioncenter.com": {
