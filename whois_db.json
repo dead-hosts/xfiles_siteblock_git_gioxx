@@ -24222,7 +24222,7 @@
     "leferinktractors.com": {
         "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "lefthandedweb.com": {
         "epoch": 1584576000.0,
@@ -24840,8 +24840,8 @@
         "state": "future"
     },
     "lionhartcleaning.co.uk": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
         "state": "future"
     },
     "lions-erp.com": {
@@ -25195,8 +25195,8 @@
         "state": "future"
     },
     "londonintegratedsystems.co.uk": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "longeasy.net": {
@@ -25405,8 +25405,8 @@
         "state": "future"
     },
     "luckycharmdesigns.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "luckyclean.info": {
@@ -25890,9 +25890,9 @@
         "state": "future"
     },
     "mamj.ru": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
-        "state": "past"
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "state": "future"
     },
     "mampoks.ru": {
         "epoch": 1591315200.0,
