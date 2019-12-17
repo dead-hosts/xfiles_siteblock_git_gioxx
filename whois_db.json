@@ -16909,6 +16909,11 @@
         "expiration_date": "08-jan-2020",
         "state": "future"
     },
+    "giftsforyou.online": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
     "gigaia.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
@@ -18157,7 +18162,7 @@
     "haha-yo.com": {
         "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "haihuang-audio.com": {
         "epoch": 1592438400.0,
