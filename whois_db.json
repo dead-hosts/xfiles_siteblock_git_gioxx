@@ -11557,7 +11557,7 @@
     "desenvolvimentosdesites.com.br": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "desertsportswear.com": {
         "epoch": 1592611200.0,
@@ -12162,7 +12162,7 @@
     "dkatto.com.br": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "dl15edu.com": {
         "epoch": 1580688000.0,
@@ -12520,8 +12520,8 @@
         "state": "past"
     },
     "dreduardotapiadapelo.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "dressesforwomen.org": {
