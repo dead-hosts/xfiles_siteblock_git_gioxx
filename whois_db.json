@@ -4140,8 +4140,8 @@
         "state": "future"
     },
     "armazones.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
         "state": "future"
     },
     "armenminasian.com": {
@@ -5192,6 +5192,11 @@
     "bananaovercake.id": {
         "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
+    "bancobb.online": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "bancodobrasil4.com": {
