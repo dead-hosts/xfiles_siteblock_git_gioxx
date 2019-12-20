@@ -8267,7 +8267,7 @@
     "caveaudelteatro.it": {
         "epoch": 1576713600.0,
         "expiration_date": "19-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "caveki.com": {
         "epoch": 1581033600.0,
@@ -8287,7 +8287,7 @@
     "cbacpartnership.org": {
         "epoch": 1576800000.0,
         "expiration_date": "20-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "cbalsera.com": {
         "epoch": 1606003200.0,
@@ -8805,8 +8805,8 @@
         "state": "future"
     },
     "cheshirehockey.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
         "state": "future"
     },
     "chesterfieldhypnosis.com": {
@@ -9067,7 +9067,7 @@
     "cidvale.com.br": {
         "epoch": 1576800000.0,
         "expiration_date": "20-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "cieindia.com": {
         "epoch": 1599609600.0,
