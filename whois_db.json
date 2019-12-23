@@ -19217,7 +19217,7 @@
     "hosting-security.com": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "hostiraj.info": {
         "epoch": 1587427200.0,
@@ -19837,7 +19837,7 @@
     "idccorps.com": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ideascentre.hk": {
         "epoch": 1705622400.0,
