@@ -14677,7 +14677,7 @@
     "experiencebethel.com": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "experiencecabo.com": {
         "epoch": 1596844800.0,
@@ -14755,8 +14755,8 @@
         "state": "future"
     },
     "faak.news": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "fabgumus.com": {
@@ -15030,8 +15030,8 @@
         "state": "future"
     },
     "fdcdoc.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "federaciondepastores.com": {
@@ -15287,7 +15287,7 @@
     "finanskarriere.com": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "finansoweigraszki.net": {
         "epoch": 1607040000.0,
@@ -15335,8 +15335,8 @@
         "state": "future"
     },
     "fircecymbal.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1671667200.0,
+        "expiration_date": "22-dec-2022",
         "state": "future"
     },
     "firebrandpc.com": {
@@ -15490,8 +15490,8 @@
         "state": "past"
     },
     "flashobmen.ru": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "flashsavant.com": {
