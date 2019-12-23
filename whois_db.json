@@ -2675,9 +2675,9 @@
         "state": "future"
     },
     "aliant.online": {
-        "epoch": 1563840000,
-        "expiration_date": "23-jul-2019",
-        "state": "past"
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
     },
     "alicethemusical.ca": {
         "epoch": 1594512000.0,
@@ -2795,8 +2795,8 @@
         "state": "future"
     },
     "alloywheelrefurbishments.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "allproblemsolutionguruji.com": {
@@ -3002,7 +3002,7 @@
     "alyans-gk.ru": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ama-alliance.com": {
         "epoch": 1566864000,
@@ -3310,9 +3310,9 @@
         "state": "past"
     },
     "ancientroom.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
-        "state": "past"
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
     },
     "andayiyuan.com": {
         "epoch": 1598140800.0,
@@ -3435,8 +3435,8 @@
         "state": "future"
     },
     "ankarasogukhavadepo.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "ankitjindia.com": {
@@ -3447,7 +3447,7 @@
     "ankoras.com": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "anmoltravelservices.com": {
         "epoch": 1599696000.0,
