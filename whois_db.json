@@ -8285,9 +8285,9 @@
         "state": "future"
     },
     "cbacpartnership.org": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
-        "state": "past"
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
     },
     "cbalsera.com": {
         "epoch": 1606003200.0,
@@ -8650,8 +8650,8 @@
         "state": "future"
     },
     "channels.one": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "chansteqindia.com": {
@@ -9480,8 +9480,8 @@
         "state": "future"
     },
     "co3corp.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "coachadvisor.it": {
@@ -9505,8 +9505,8 @@
         "state": "future"
     },
     "coco-clinic.pl": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1578182400.0,
+        "expiration_date": "05-jan-2020",
         "state": "future"
     },
     "codebuilders.se": {
