@@ -22679,6 +22679,11 @@
         "expiration_date": "31-aug-2020",
         "state": "future"
     },
+    "katiepeng.site": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
     "kaukabphysiatry.com": {
         "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
@@ -23650,8 +23655,8 @@
         "state": "future"
     },
     "kuopiontanssistudio.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "kupit-rulevuju-rejku.ru": {
@@ -24055,8 +24060,8 @@
         "state": "future"
     },
     "laurakaufman.net": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "laurelconsult.com": {
