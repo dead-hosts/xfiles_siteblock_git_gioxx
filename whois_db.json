@@ -29445,9 +29445,9 @@
         "state": "future"
     },
     "nexustravels.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
-        "state": "past"
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
     },
     "nexxxxi.com": {
         "epoch": 1585267200.0,
@@ -29635,8 +29635,8 @@
         "state": "future"
     },
     "nishkampolishsewakjatha.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
         "state": "future"
     },
     "niveaumes.fr": {
@@ -29832,7 +29832,7 @@
     "notarius.com.mk": {
         "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "note.us": {
         "epoch": 1590969600.0,
