@@ -24835,8 +24835,8 @@
         "state": "future"
     },
     "linuxcambodia.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "lio888.com": {
@@ -25155,8 +25155,8 @@
         "state": "future"
     },
     "logrel.com.ng": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "logwoodonline.com": {
@@ -25635,8 +25635,8 @@
         "state": "future"
     },
     "machamerfinancial.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "mackleyn.com": {
@@ -25757,7 +25757,7 @@
     "mah0ney.com": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "mahalaxmimachines.com": {
         "epoch": 1607644800.0,
@@ -25875,8 +25875,8 @@
         "state": "future"
     },
     "malwareathome.com": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "malwarestore.id": {
@@ -26209,6 +26209,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "marketbd.xyz": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
     "marketingspace.com.ng": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
@@ -26295,8 +26300,8 @@
         "state": "future"
     },
     "masjlr.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "masonicmessenger.com": {
@@ -26460,9 +26465,9 @@
         "state": "future"
     },
     "mbsejabalpur.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
-        "state": "past"
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
     },
     "mcalighting.com": {
         "epoch": 1582848000.0,
