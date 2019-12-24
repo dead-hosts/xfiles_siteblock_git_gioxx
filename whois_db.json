@@ -43952,7 +43952,7 @@
     "xi1111.com": {
         "epoch": 1577145600.0,
         "expiration_date": "24-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "xianyicao.net": {
         "epoch": 1562371200,
@@ -44690,8 +44690,8 @@
         "state": "future"
     },
     "ysbbcrypsc.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "yserch.com": {
@@ -44825,9 +44825,9 @@
         "state": "future"
     },
     "zalkrjkruyzh.com": {
-        "epoch": 1564358400,
-        "expiration_date": "29-jul-2019",
-        "state": "past"
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
     },
     "zamanlar2.com": {
         "epoch": 1579564800.0,
