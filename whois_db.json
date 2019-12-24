@@ -40815,9 +40815,9 @@
         "state": "future"
     },
     "travastownsend.com": {
-        "epoch": 1569801600.0,
-        "expiration_date": "30-sep-2019",
-        "state": "past"
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
     },
     "travbae.com": {
         "epoch": 1606003200.0,
@@ -42057,7 +42057,7 @@
     "vencedoronline.com": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "venusparkridge.com": {
         "epoch": 1589500800.0,
