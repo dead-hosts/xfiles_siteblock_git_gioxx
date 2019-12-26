@@ -42445,9 +42445,9 @@
         "state": "past"
     },
     "vinyljazzrecords.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
-        "state": "past"
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
     },
     "vipbuyrb.com": {
         "epoch": 1562025600,
@@ -43355,9 +43355,9 @@
         "state": "future"
     },
     "wfcomercial.com.br": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
-        "state": "past"
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
     },
     "wfprcarodeo.com": {
         "epoch": 1596672000.0,
