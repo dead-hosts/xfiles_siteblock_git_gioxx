@@ -3020,8 +3020,8 @@
         "state": "future"
     },
     "amaithiyagam.org": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "amandapuglisi.com": {
@@ -3130,8 +3130,8 @@
         "state": "future"
     },
     "americanthunderdfw.com": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "ameriplanet.com": {
@@ -3369,6 +3369,11 @@
         "expiration_date": "31-aug-2020",
         "state": "future"
     },
+    "androidappworld.com": {
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
+        "state": "future"
+    },
     "androidbabbles.com": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
@@ -3445,9 +3450,9 @@
         "state": "future"
     },
     "ankoras.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
-        "state": "past"
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
     },
     "anmoltravelservices.com": {
         "epoch": 1599696000.0,
