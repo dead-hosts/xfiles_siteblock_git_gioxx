@@ -6080,8 +6080,8 @@
         "state": "future"
     },
     "bhsedelhiboard.net": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "bi-rite.co.za": {
@@ -6377,7 +6377,7 @@
     "bizdevar.tk": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "bizdez.net": {
         "epoch": 1601856000.0,
@@ -7765,8 +7765,8 @@
         "state": "future"
     },
     "canadabook.ca": {
-        "epoch": 1577232000.0,
-        "expiration_date": "25-dec-2019",
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "canalsidesweater.com": {
