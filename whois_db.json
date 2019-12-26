@@ -36200,8 +36200,8 @@
         "state": "future"
     },
     "shafayat.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "shafiul.me": {
@@ -36507,7 +36507,7 @@
     "shreeaadigaurbrahminsamaj.org": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "shreecement.in": {
         "epoch": 1604448000.0,
