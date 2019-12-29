@@ -16272,7 +16272,7 @@
     "fxpcw.com": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "fxztjnsb.com": {
         "epoch": 1606262400.0,
@@ -16750,8 +16750,8 @@
         "state": "future"
     },
     "geogeniusindia.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "geogospeltroupe.com": {
