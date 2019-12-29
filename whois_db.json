@@ -4802,7 +4802,7 @@
     "autosknowledge.com": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "autsedpurgaammer.com": {
         "epoch": 1578182400.0,
