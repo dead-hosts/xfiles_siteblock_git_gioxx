@@ -18995,8 +18995,8 @@
         "state": "future"
     },
     "hncopd.com": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "hnditu.com": {
@@ -19050,8 +19050,8 @@
         "state": "future"
     },
     "hobromusic.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "hocomserv.com": {
@@ -19152,7 +19152,7 @@
     "homesteadescrow.info": {
         "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "homtha.it": {
         "epoch": 1586131200.0,
@@ -19520,8 +19520,8 @@
         "state": "past"
     },
     "humanding.com": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "humlieschoolofmusic.com": {
@@ -20140,8 +20140,8 @@
         "state": "future"
     },
     "immigrationhelp4u.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "immonieruchomosci.pl": {
