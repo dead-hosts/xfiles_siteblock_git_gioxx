@@ -8710,9 +8710,9 @@
         "state": "future"
     },
     "chatchat.ai": {
-        "epoch": 1568851200.0,
-        "expiration_date": "19-sep-2019",
-        "state": "past"
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "state": "future"
     },
     "chatty-imaginativelady.com": {
         "epoch": 1594857600.0,
@@ -9292,7 +9292,7 @@
     "cleaningrak.com": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "cleanmatic.com.br": {
         "epoch": 1609891200.0,
@@ -9975,8 +9975,8 @@
         "state": "future"
     },
     "convergentcom.biz": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1640563200.0,
+        "expiration_date": "27-dec-2021",
         "state": "future"
     },
     "conversaoparadvd.com.br": {
