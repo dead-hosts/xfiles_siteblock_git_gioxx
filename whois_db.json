@@ -43262,7 +43262,7 @@
     "webmanshake.ru": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "webmartnepal.com": {
         "epoch": 1596758400.0,
@@ -43440,9 +43440,9 @@
         "state": "future"
     },
     "westdy.com": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
-        "state": "past"
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
     },
     "westernamericanfoodschina.cn": {
         "epoch": 1602115200.0,
