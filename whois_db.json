@@ -27255,8 +27255,8 @@
         "state": "future"
     },
     "min2candy.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "minabella.com.br": {
@@ -27459,6 +27459,11 @@
         "expiration_date": "28-may-2022",
         "state": "future"
     },
+    "mitsubishimotorsvn.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
     "mixandbatch2000.co.uk": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
@@ -27480,8 +27485,8 @@
         "state": "past"
     },
     "mizahturk.com": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "mjfuntime.co.uk": {
@@ -27540,8 +27545,8 @@
         "state": "future"
     },
     "mnbcgroup.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "mnfides.com": {
@@ -28220,8 +28225,8 @@
         "state": "future"
     },
     "musakaplan.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "musclegainingtips.com": {
@@ -28915,8 +28920,8 @@
         "state": "future"
     },
     "myschoolservices011.net": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "myservicesgroup.com": {
@@ -29769,6 +29774,11 @@
         "expiration_date": "06-feb-2020",
         "state": "future"
     },
+    "nlcwebtv.com": {
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
+    },
     "nminmobiliaria.com": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
@@ -29902,7 +29912,7 @@
     "northernfarm-1996.com": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "northernlights.media": {
         "epoch": 1601856000.0,
@@ -29925,9 +29935,9 @@
         "state": "future"
     },
     "notarius.com.mk": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
-        "state": "past"
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
     },
     "note.us": {
         "epoch": 1590969600.0,
