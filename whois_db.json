@@ -7475,9 +7475,9 @@
         "state": "future"
     },
     "byggaaltan.nu": {
-        "epoch": 1564012800,
-        "expiration_date": "25-jul-2019",
-        "state": "past"
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
     },
     "byggrakt.se": {
         "epoch": 1582502400.0,
@@ -7552,7 +7552,7 @@
     "cadxiedan.com": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "caelusdigital.com.br": {
         "epoch": 1582243200.0,
@@ -7670,8 +7670,8 @@
         "state": "future"
     },
     "callisto.co.in": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "caloaksgc.com": {
@@ -8317,6 +8317,11 @@
     "cca-paris.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
+    "ccacqsnpnpsgpfxwulne.us": {
+        "epoch": 1584835200.0,
+        "expiration_date": "22-mar-2020",
         "state": "future"
     },
     "ccaltinbas.com": {
@@ -9295,9 +9300,9 @@
         "state": "future"
     },
     "cleaningrak.com": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
-        "state": "past"
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
     },
     "cleanmatic.com.br": {
         "epoch": 1609891200.0,
@@ -9927,6 +9932,11 @@
     "consultdesk.com": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "consultexservices.org": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "consulting-gvg.com": {
