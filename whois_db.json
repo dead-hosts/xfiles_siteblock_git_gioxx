@@ -16315,9 +16315,9 @@
         "state": "future"
     },
     "fxpcw.com": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
-        "state": "past"
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
     },
     "fxztjnsb.com": {
         "epoch": 1606262400.0,
@@ -17285,9 +17285,9 @@
         "state": "future"
     },
     "gogle-drive.com": {
-        "epoch": 1564790400,
-        "expiration_date": "03-aug-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "gogogossip.com": {
         "epoch": 1602460800.0,
@@ -18454,6 +18454,11 @@
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
+    "hawen.io": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
+    },
     "hayantar.am": {
         "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
@@ -18777,7 +18782,7 @@
     "herbadicas.com.br": {
         "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "herbalmantap.com": {
         "epoch": 1587686400.0,
