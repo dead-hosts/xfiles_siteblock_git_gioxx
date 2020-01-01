@@ -36259,6 +36259,11 @@
         "expiration_date": "24-may-2020",
         "state": "future"
     },
+    "setragroups.com": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "state": "future"
+    },
     "sevenartzpublicidad.com": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
@@ -36342,7 +36347,7 @@
     "shagarat.com": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "shahjalalbank.com": {
         "epoch": 1593907200.0,
@@ -36457,7 +36462,7 @@
     "sheekstudio.co": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "sheetmetal36.org": {
         "epoch": 1584144000.0,
@@ -36514,6 +36519,11 @@
         "expiration_date": "18-may-2020",
         "state": "future"
     },
+    "shifawll1.ae": {
+        "epoch": 1590278400.0,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
     "shiftthebalance.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
@@ -36560,8 +36570,8 @@
         "state": "past"
     },
     "shopbaite.ru": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "shopcarolinas.com": {
@@ -37570,8 +37580,8 @@
         "state": "future"
     },
     "songreen.com": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1640822400.0,
+        "expiration_date": "30-dec-2021",
         "state": "future"
     },
     "sonicelevatorltd.com": {
@@ -38115,8 +38125,8 @@
         "state": "future"
     },
     "stitchgrrl.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "stjameselmira.ca": {
@@ -38345,9 +38355,9 @@
         "state": "future"
     },
     "subeihm.com": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
-        "state": "past"
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
     },
     "subhashmohan.com": {
         "epoch": 1599091200.0,

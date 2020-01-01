@@ -9080,7 +9080,6 @@
             "service-apple-ld.com": "INACTIVE",
             "service-appleld.com": "INACTIVE",
             "service-client-remboursement.com.cafecop.pt": "INACTIVE",
-            "service-confirmation-customer-info.freeegyptradio.com": "INACTIVE",
             "service-confirmation-customer-support.traxlerenterprises.com": "INACTIVE",
             "service-confirmation-customer.traxlerenterprises.com": "INACTIVE",
             "service-confirmation-customers.jakarta6666666.com": "INACTIVE",
@@ -9152,7 +9151,6 @@
             "serwer1827616.home.pl": "INACTIVE",
             "serwer1837541.home.pl": "INACTIVE",
             "setingssecure.xyz": "INACTIVE",
-            "setragroups.com": "INACTIVE",
             "setting505.hol.es": "INACTIVE",
             "settings-account.store.apple.com-account.store.apple.it.inaitt.com": "INACTIVE",
             "settings-account.store.apple.com-account.store.apple.it.intesasa.com": "INACTIVE",
@@ -9281,7 +9279,6 @@
             "sig-in-attempt-some.paypal.liquid.mind-of-wrong.com": "INACTIVE",
             "sign-activateds.com": "INACTIVE",
             "sign-in-help.ml": "INACTIVE",
-            "sign.encoding.information.uzmzudseodc2fjpyi6mjcxndiymtuzmzufazdseyi6swh58fmodc2fjqxoc2fjp.chinaboca.com": "INACTIVE",
             "sign.hendarson-services.com": "INACTIVE",
             "sign.theencoregroup.com.au": "INACTIVE",
             "signal-office.com": "INACTIVE",
@@ -9404,7 +9401,6 @@
             "signin.eby.de.ysmqnhrufhdcfef.civpro.co.za": "INACTIVE",
             "signin.eby.de.yyf1qkeeanlexwb.civpro.co.za": "INACTIVE",
             "signin.eby.de.zukruygxctzmmqi.civpro.co.za": "INACTIVE",
-            "signin.encoding.amaz.fbbcr4xmu0ucvwec2graqrjs5pksoamofxrgj5uyza2hm5spdf3fm7gl3rgn.chinaboca.com": "INACTIVE",
             "signin.wfmobile.review": "INACTIVE",
             "signinid-account.com-serviceusers-authenticationid.com": "INACTIVE",
             "signininfo.com": "INACTIVE",
@@ -14656,26 +14652,20 @@
         },
         "1577655918": {
             "sejamaivoce.com": "INACTIVE",
-            "selrea-owhcef20.net": "INACTIVE",
             "semanadeverao.com": "INACTIVE"
         },
         "1577655919": {
-            "semana-ofertascasasbhaia.com": "INACTIVE",
-            "semoon.mn": "INACTIVE"
+            "semana-ofertascasasbhaia.com": "INACTIVE"
         },
         "1577655921": {
             "service-payement.docesdaserramineira.com.br": "INACTIVE",
             "services-rakutencard.com": "INACTIVE"
         },
         "1577655922": {
-            "servicoportalbb.com": "INACTIVE",
             "severastana.kz": "INACTIVE"
         },
         "1577656608": {
-            "shivoms.io": "INACTIVE",
-            "shoba-shoba.info": "INACTIVE",
-            "shohidullahkhan.com": "INACTIVE",
-            "shoppfordeals.com": "INACTIVE"
+            "shoba-shoba.info": "INACTIVE"
         },
         "1577656609": {
             "showryomg.com": "INACTIVE"
@@ -14688,51 +14678,24 @@
             "sign-ln-lcloud.com": "INACTIVE",
             "signcontract-etherwallet.net": "INACTIVE"
         },
-        "1577656617": {
-            "skypehotologin.com": "INACTIVE"
-        },
-        "1577656618": {
-            "smanytdialdw.info": "INACTIVE"
-        },
         "1577656620": {
             "sms-atualizar.top": "INACTIVE"
         },
         "1577656621": {
             "sobhbo.info": "INACTIVE"
         },
-        "1577656625": {
-            "sonicons.com": "INACTIVE"
-        },
-        "1577656627": {
-            "spectrocoinau.com": "INACTIVE"
-        },
-        "1577656629": {
-            "squairel.com": "INACTIVE",
-            "srlizvnqqzjmufi.com": "INACTIVE"
-        },
-        "1577656630": {
-            "ssngpesnpadu.info": "INACTIVE"
-        },
         "1577656632": {
-            "steamcomnmunuty.com": "INACTIVE",
             "steamconmunutlu.com": "INACTIVE",
-            "steamientostudio.top": "INACTIVE",
-            "steelsshops.org": "INACTIVE"
+            "steamientostudio.top": "INACTIVE"
         },
         "1577656633": {
             "stellar-dolphin.org": "INACTIVE",
-            "stellar-w.com": "INACTIVE",
-            "stevemike-fireforce.info": "INACTIVE"
+            "stellar-w.com": "INACTIVE"
         },
         "1577656635": {
-            "stopnarkotic.ru": "INACTIVE",
-            "stornierenswitzpavpalkontos0.com": "INACTIVE",
-            "streamqobt.com": "INACTIVE"
+            "stopnarkotic.ru": "INACTIVE"
         },
         "1577656638": {
-            "subeacik-denizbank.com": "INACTIVE",
-            "subehalkbank-tr.com": "INACTIVE",
-            "subesizbankacilik-halkbank.com": "INACTIVE",
             "subofertademaio.com": "INACTIVE",
             "subpromocao.com": "INACTIVE"
         },
@@ -15865,6 +15828,53 @@
         "1577911558": {
             "security-account-block.com": "INACTIVE",
             "securitycheckpolice.com": "INACTIVE"
+        },
+        "1577912241": {
+            "selrea-owhcef20.net": "INACTIVE",
+            "semoon.mn": "INACTIVE"
+        },
+        "1577912243": {
+            "servicoportalbb.com": "INACTIVE"
+        },
+        "1577912247": {
+            "shivoms.io": "INACTIVE",
+            "shohidullahkhan.com": "INACTIVE"
+        },
+        "1577912248": {
+            "shoppfordeals.com": "INACTIVE"
+        },
+        "1577912253": {
+            "skypehotologin.com": "INACTIVE"
+        },
+        "1577912254": {
+            "smanytdialdw.info": "INACTIVE"
+        },
+        "1577912259": {
+            "sonicons.com": "INACTIVE"
+        },
+        "1577912261": {
+            "spectrocoinau.com": "INACTIVE"
+        },
+        "1577912263": {
+            "squairel.com": "INACTIVE",
+            "srlizvnqqzjmufi.com": "INACTIVE",
+            "ssngpesnpadu.info": "INACTIVE"
+        },
+        "1577912265": {
+            "steamcomnmunuty.com": "INACTIVE",
+            "steelsshops.org": "INACTIVE"
+        },
+        "1577912266": {
+            "stevemike-fireforce.info": "INACTIVE"
+        },
+        "1577912267": {
+            "stornierenswitzpavpalkontos0.com": "INACTIVE",
+            "streamqobt.com": "INACTIVE"
+        },
+        "1577912269": {
+            "subeacik-denizbank.com": "INACTIVE",
+            "subehalkbank-tr.com": "INACTIVE",
+            "subesizbankacilik-halkbank.com": "INACTIVE"
         }
     }
 }
