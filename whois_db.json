@@ -38839,6 +38839,11 @@
         "expiration_date": "05-mar-2020",
         "state": "future"
     },
+    "swing-fashion.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
+    },
     "swirlworld.net": {
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
@@ -39252,6 +39257,11 @@
     "tdconsulting.co.ke": {
         "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "tdspanel.com": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
         "state": "future"
     },
     "tea-tray.com": {
@@ -39965,8 +39975,8 @@
         "state": "future"
     },
     "thehishers.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "thehmfnec.co.uk": {
@@ -40067,7 +40077,7 @@
     "thepilatesfisiofitness.com.br": {
         "epoch": 1577664000.0,
         "expiration_date": "30-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "thepinch.net": {
         "epoch": 1601856000.0,
@@ -40175,8 +40185,8 @@
         "state": "future"
     },
     "thewebup.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "thewhiteswaninn.co.uk": {
@@ -41140,8 +41150,8 @@
         "state": "future"
     },
     "trustruss.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1672444800.0,
+        "expiration_date": "31-dec-2022",
         "state": "future"
     },
     "trusturman.com": {
@@ -41312,6 +41322,11 @@
     "turkishouds.com": {
         "epoch": 1687824000.0,
         "expiration_date": "27-jun-2023",
+        "state": "future"
+    },
+    "turkogluelektrik.com": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "turn8d.com": {
