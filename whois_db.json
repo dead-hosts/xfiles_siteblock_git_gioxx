@@ -3499,6 +3499,11 @@
         "expiration_date": "09-feb-2020",
         "state": "future"
     },
+    "anniversary.com.sg": {
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
+        "state": "future"
+    },
     "annstowncar.com": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
@@ -3602,7 +3607,7 @@
     "anvikbiotech.com": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "anzhuo6.com": {
         "epoch": 1602979200.0,
