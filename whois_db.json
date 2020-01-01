@@ -2380,8 +2380,8 @@
         "state": "future"
     },
     "ajewishgift.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "ajjhm.com": {
@@ -45132,6 +45132,11 @@
     "zh18.net": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "zhangzhian.net": {
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "zhenzhongmuye.com": {
