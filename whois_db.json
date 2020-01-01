@@ -4230,8 +4230,8 @@
         "state": "future"
     },
     "art-archiv.ru": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "art-curious.com": {
@@ -10332,6 +10332,11 @@
     "cracks.vg": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "crackspider.us": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "crackzone.net": {
