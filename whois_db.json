@@ -3605,9 +3605,9 @@
         "state": "future"
     },
     "anvikbiotech.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
-        "state": "past"
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
     },
     "anzhuo6.com": {
         "epoch": 1602979200.0,
@@ -4170,8 +4170,8 @@
         "state": "future"
     },
     "armoredcarusa.com": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
         "state": "future"
     },
     "armstrongflooring.mobi": {
