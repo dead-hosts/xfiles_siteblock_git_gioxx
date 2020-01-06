@@ -21047,7 +21047,7 @@
     "itibr.org.br": {
         "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "itoops.com": {
         "epoch": 1588982400.0,
@@ -22327,7 +22327,7 @@
     "jugadiya.com": {
         "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "jugshots.com": {
         "epoch": 1594944000.0,
@@ -22445,8 +22445,8 @@
         "state": "future"
     },
     "jwpray.com": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "jwsc.cn": {
