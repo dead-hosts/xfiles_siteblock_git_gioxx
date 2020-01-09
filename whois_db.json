@@ -9530,8 +9530,8 @@
         "state": "future"
     },
     "codebuilders.se": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "codeextrim.com": {
@@ -9637,7 +9637,7 @@
     "colleenoakley.com": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "collegesavngsiowa.com": {
         "epoch": 1607212800.0,
@@ -9697,6 +9697,11 @@
     "com-issueinfo.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "com-support.online": {
+        "epoch": 1593907200.0,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "comcomsystems.com": {
@@ -10380,9 +10385,9 @@
         "state": "future"
     },
     "creatives.co.in": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
-        "state": "past"
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
     },
     "creativesparkz.co.in": {
         "epoch": 1598918400.0,
@@ -10925,8 +10930,8 @@
         "state": "future"
     },
     "daguogroup.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "daibio.com": {
@@ -11027,7 +11032,7 @@
     "danielgrossitreinamento.com.br": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "danielhankins.com": {
         "epoch": 1580947200.0,
@@ -11375,8 +11380,8 @@
         "state": "future"
     },
     "defenseattorneyvamd.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "defygravity.com": {
