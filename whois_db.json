@@ -21597,7 +21597,7 @@
     "jessisjewels.com": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "jesus-alive.org": {
         "epoch": 1582156800.0,
@@ -35515,8 +35515,8 @@
         "state": "future"
     },
     "sarahdaniella.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "sarahsexperiences.com": {
