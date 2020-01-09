@@ -35745,8 +35745,8 @@
         "state": "future"
     },
     "scottmorrison.info": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "scout.co.za": {
@@ -36712,7 +36712,7 @@
     "shubhbhawna.com": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "shzrsy.net": {
         "epoch": 1598054400.0,
@@ -37092,7 +37092,7 @@
     "skovia.com": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "skuawill.com": {
         "epoch": 1580169600.0,
