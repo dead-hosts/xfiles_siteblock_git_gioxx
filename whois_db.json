@@ -2762,7 +2762,7 @@
     "allcar-brands.com": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "allcitiesoverheadoor.com": {
         "epoch": 1617753600.0,
@@ -3335,8 +3335,8 @@
         "state": "future"
     },
     "andoburg.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "andonis.co.uk": {
@@ -3447,7 +3447,7 @@
     "ankitjindia.com": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "ankoras.com": {
         "epoch": 1608681600.0,
@@ -4100,8 +4100,8 @@
         "state": "future"
     },
     "arizst.ru": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "arjawa.com": {
