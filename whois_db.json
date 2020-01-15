@@ -35917,7 +35917,7 @@
     "secureaccount.ru": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "securecenter-cas1.top": {
         "epoch": 1562716800,
@@ -36072,7 +36072,7 @@
     "seminarioteologicobatista.com.br": {
         "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "semiyun.com": {
         "epoch": 1585353600.0,
@@ -37255,8 +37255,8 @@
         "state": "future"
     },
     "smeqatalyst.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "smi-engineering.com": {
@@ -37645,8 +37645,8 @@
         "state": "future"
     },
     "soroptimistdaf.ca": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "sorrisopratodos.com.br": {
