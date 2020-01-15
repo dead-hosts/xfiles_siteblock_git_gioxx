@@ -4860,9 +4860,9 @@
         "state": "future"
     },
     "avilatransportes.com.br": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
-        "state": "past"
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
+        "state": "future"
     },
     "avionselect.com": {
         "epoch": 1606262400.0,
@@ -5862,7 +5862,7 @@
     "berkhangungor.com": {
         "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "berkshirecraftanddesign.com": {
         "epoch": 1581292800.0,
@@ -6055,8 +6055,8 @@
         "state": "future"
     },
     "bga100.cn": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "bharatcoldstorage.com": {
@@ -7062,7 +7062,7 @@
     "brandsandproduct.com": {
         "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "brasnorte.com.br": {
         "epoch": 1645488000.0,
