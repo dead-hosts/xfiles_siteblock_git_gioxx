@@ -9877,7 +9877,7 @@
     "conexjuridica.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "configurationfile.net": {
         "epoch": 1589760000.0,
@@ -9960,8 +9960,8 @@
         "state": "future"
     },
     "consultwinstra.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "consumerhealthresearch.com": {
@@ -12110,8 +12110,8 @@
         "state": "future"
     },
     "distribuidoraserrana.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "distributor-herbal.com": {
