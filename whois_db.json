@@ -15177,7 +15177,7 @@
     "fennoscandia.org": {
         "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "fenononline.com": {
         "epoch": 1604275200.0,
@@ -15460,8 +15460,8 @@
         "state": "future"
     },
     "fishingchartersvancouver.ca": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "fitforpurpose.co.ke": {
@@ -15960,8 +15960,8 @@
         "state": "future"
     },
     "franklinon8th.co.za": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "franklynmedical.com": {
@@ -16390,8 +16390,8 @@
         "state": "future"
     },
     "gabinet-harmonia.pl": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "gabionduvar.com": {
