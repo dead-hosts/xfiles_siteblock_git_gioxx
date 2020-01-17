@@ -41210,8 +41210,8 @@
         "state": "future"
     },
     "ts-minta.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "tsfkjbw.com": {
@@ -41490,9 +41490,9 @@
         "state": "future"
     },
     "ubracing.co.uk": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
-        "state": "past"
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
     },
     "ucccu.or.ug": {
         "epoch": 1581465600.0,
@@ -42075,9 +42075,9 @@
         "state": "future"
     },
     "valetik.ru": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
-        "state": "past"
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
     },
     "valley-store.com": {
         "epoch": 1609977600.0,
