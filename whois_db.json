@@ -30477,7 +30477,7 @@
     "oneness4all.org": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "oneontamartialarts.com": {
         "epoch": 1587168000.0,
@@ -31092,7 +31092,7 @@
     "paljor.net": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "palmettosandpigtails.com": {
         "epoch": 1602460800.0,
