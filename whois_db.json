@@ -9875,9 +9875,9 @@
         "state": "past"
     },
     "conexjuridica.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
-        "state": "past"
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
     },
     "configurationfile.net": {
         "epoch": 1589760000.0,
@@ -10705,8 +10705,8 @@
         "state": "future"
     },
     "customcedarfencesofmichigan.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "customchopperstuff.com": {
