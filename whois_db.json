@@ -14945,9 +14945,9 @@
         "state": "future"
     },
     "familiekoning.net": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
-        "state": "past"
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
     },
     "familyfarma.it": {
         "epoch": 1607904000.0,
@@ -14990,8 +14990,8 @@
         "state": "future"
     },
     "fap2babes.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "farmerbuddies.com": {
@@ -15175,9 +15175,9 @@
         "state": "future"
     },
     "fennoscandia.org": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
-        "state": "past"
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
     },
     "fenononline.com": {
         "epoch": 1604275200.0,
@@ -15207,7 +15207,7 @@
     "fernandomalta.adv.br": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "ferreteriacorver.com": {
         "epoch": 1576713600.0,
@@ -16552,7 +16552,7 @@
     "garimela.com": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "garrygualach.com": {
         "epoch": 1598486400.0,
@@ -16950,8 +16950,8 @@
         "state": "future"
     },
     "ghost8.cn": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "ghostteamone.com": {
