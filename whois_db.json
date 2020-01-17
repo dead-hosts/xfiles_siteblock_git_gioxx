@@ -25005,9 +25005,9 @@
         "state": "future"
     },
     "lithiumcheats.xyz": {
-        "epoch": 1574121600,
+        "epoch": 1574121600.0,
         "expiration_date": "19-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "little-rascals.co.uk": {
         "epoch": 1580428800.0,
@@ -26020,9 +26020,9 @@
         "state": "future"
     },
     "man1234.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
-        "state": "past"
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
     },
     "man2jakarta.sch.id": {
         "epoch": 1583452800.0,
