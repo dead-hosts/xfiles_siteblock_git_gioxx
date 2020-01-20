@@ -5315,9 +5315,9 @@
         "state": "future"
     },
     "bapatconsultants.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
-        "state": "past"
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
     },
     "baranacarpet.com": {
         "epoch": 1594944000.0,
@@ -5465,8 +5465,8 @@
         "state": "future"
     },
     "bbcasangaria.org": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "bbcho.com": {
@@ -6392,7 +6392,7 @@
     "biznessmebeli.ru": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "biznettvigator.com": {
         "epoch": 1607644800.0,
