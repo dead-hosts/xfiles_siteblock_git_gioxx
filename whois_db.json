@@ -37177,7 +37177,7 @@
     "smaoewewe.club": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "smart-eth-contract.site": {
         "epoch": 1564963200,
@@ -38677,7 +38677,7 @@
     "supportpg.com.br": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "supports-mysoftbank.com": {
         "epoch": 1562976000,
