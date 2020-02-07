@@ -15941,12 +15941,6 @@
         "1580845686": {
             "fashion-ol.com.pl": "INACTIVE"
         },
-        "1580849766": {
-            "ama-alliance.com": "INACTIVE"
-        },
-        "1580849767": {
-            "americancareconcept.com": "INACTIVE"
-        },
         "1580853609": {
             "ads.mail3x.com": "INACTIVE"
         },
@@ -15995,6 +15989,10 @@
         },
         "1581029637": {
             "winstonchurchill.ca": "INACTIVE"
+        },
+        "1581068980": {
+            "ama-alliance.com": "INACTIVE",
+            "americancareconcept.com": "INACTIVE"
         }
     }
 }
