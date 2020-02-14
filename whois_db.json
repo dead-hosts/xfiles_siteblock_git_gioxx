@@ -32607,7 +32607,7 @@
     "powerplanting.com": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "powershopnet.net": {
         "epoch": 1603497600.0,
@@ -44362,7 +44362,7 @@
     "xinyitaoci.com": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "xiugaiba.com": {
         "epoch": 1599523200.0,
