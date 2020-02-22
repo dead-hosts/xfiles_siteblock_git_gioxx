@@ -3242,7 +3242,7 @@
     "amusecity.com": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "amvic.ru": {
         "epoch": 1585353600.0,
@@ -5600,8 +5600,8 @@
         "state": "future"
     },
     "be-funk.com": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "beabeaf.com": {
@@ -27955,8 +27955,8 @@
         "state": "future"
     },
     "morenewmedia.com": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "morenews3.net": {
