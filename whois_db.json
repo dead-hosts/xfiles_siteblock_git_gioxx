@@ -13010,9 +13010,9 @@
         "state": "future"
     },
     "e1r.net": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
-        "state": "past"
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
     },
     "e2i.com.br": {
         "epoch": 1596585600.0,
@@ -13715,8 +13715,8 @@
         "state": "past"
     },
     "elmissouri.fr": {
-        "epoch": 1581292800.0,
-        "expiration_date": "10-feb-2020",
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "elnuevosistemamundo.com": {
