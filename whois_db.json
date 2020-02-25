@@ -20442,7 +20442,7 @@
     "indiatouragency.com": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "indinet.info": {
         "epoch": 1627948800.0,
@@ -25437,7 +25437,7 @@
     "losingthisweight.com": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "losmercantes.com": {
         "epoch": 1592697600.0,
