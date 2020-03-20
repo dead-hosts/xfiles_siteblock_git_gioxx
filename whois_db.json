@@ -877,7 +877,7 @@
     "7798991.com": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "77zhenia.net": {
         "epoch": 1562457600,
@@ -40837,7 +40837,7 @@
     "topmailersblog.com": {
         "epoch": 1584662400.0,
         "expiration_date": "20-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "topoloveni.ro": {
         "epoch": 1843516800.0,
