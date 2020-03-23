@@ -4840,8 +4840,8 @@
         "state": "future"
     },
     "av5k.com": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "avalonnw.com": {
@@ -28917,6 +28917,11 @@
     "myfundeals.com": {
         "epoch": 1601510400.0,
         "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
+    "mygooglemy.com": {
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "myhealthbaba.com": {
