@@ -339,6 +339,11 @@
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
+    "1stand2ndmortgage.com": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
     "1xgoz.top": {
         "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
@@ -932,7 +937,7 @@
     "81182479.com": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "818tl.com": {
         "epoch": 1595462400.0,
@@ -12890,8 +12895,8 @@
         "state": "future"
     },
     "dwdpi.co.kr": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "dwiattorneynearme.com": {
@@ -16705,8 +16710,8 @@
         "state": "future"
     },
     "gddingtian.com.cn": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "gdeea.cc": {
@@ -19330,8 +19335,8 @@
         "state": "future"
     },
     "hostiraj.info": {
-        "epoch": 1587427200.0,
-        "expiration_date": "21-apr-2020",
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "hotelcenterlake.com": {
@@ -36390,8 +36395,8 @@
         "state": "future"
     },
     "setjetters.com": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "setracorretora.com.br": {
@@ -42407,7 +42412,7 @@
     "verfer.com": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "vergileme.com": {
         "epoch": 1591920000.0,
