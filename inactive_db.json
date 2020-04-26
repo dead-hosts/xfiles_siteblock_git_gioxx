@@ -203,6 +203,13 @@
             "last_retested_at_iso": "2020-04-26T15:59:09.380259",
             "status": "INACTIVE"
         },
+        "badaonz.com": {
+            "included_at_epoch": 1587923882.555914,
+            "included_at_iso": "2020-04-26T17:58:02.555914",
+            "last_retested_at_epoch": 1587923882.555914,
+            "last_retested_at_iso": "2020-04-26T17:58:02.555914",
+            "status": "INACTIVE"
+        },
         "bakuzbuq.ru": {
             "included_at_epoch": 1587916749.878624,
             "included_at_iso": "2020-04-26T15:59:09.878624",
@@ -341,6 +348,13 @@
             "included_at_iso": "2020-04-26T15:59:17.729541",
             "last_retested_at_epoch": 1587916757.729541,
             "last_retested_at_iso": "2020-04-26T15:59:17.729541",
+            "status": "INACTIVE"
+        },
+        "co.at.vc": {
+            "included_at_epoch": 1587923883.043863,
+            "included_at_iso": "2020-04-26T17:58:03.043863",
+            "last_retested_at_epoch": 1587923883.043863,
+            "last_retested_at_iso": "2020-04-26T17:58:03.043863",
             "status": "INACTIVE"
         },
         "commitse.ru": {
@@ -705,6 +719,13 @@
             "included_at_iso": "2020-04-26T16:22:54.172993",
             "last_retested_at_epoch": 1587918174.172993,
             "last_retested_at_iso": "2020-04-26T16:22:54.172993",
+            "status": "INACTIVE"
+        },
+        "huate.hk": {
+            "included_at_epoch": 1587923885.556185,
+            "included_at_iso": "2020-04-26T17:58:05.556185",
+            "last_retested_at_epoch": 1587923885.556185,
+            "last_retested_at_iso": "2020-04-26T17:58:05.556185",
             "status": "INACTIVE"
         },
         "ibookschool.co.kr": {
