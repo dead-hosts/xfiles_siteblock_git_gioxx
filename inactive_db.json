@@ -80,8 +80,8 @@
         "aaron.fansju.com": {
             "included_at_epoch": 1587928137.630524,
             "included_at_iso": "2020-04-26T19:08:57.630524",
-            "last_retested_at_epoch": 1587928137.630524,
-            "last_retested_at_iso": "2020-04-26T19:08:57.630524",
+            "last_retested_at_epoch": 1588017445.423703,
+            "last_retested_at_iso": "2020-04-27T19:57:25.423703",
             "status": "INACTIVE"
         },
         "ad.words-google.com": {
@@ -360,8 +360,8 @@
         "co.at.vc": {
             "included_at_epoch": 1587923883.043863,
             "included_at_iso": "2020-04-26T17:58:03.043863",
-            "last_retested_at_epoch": 1587923883.043863,
-            "last_retested_at_iso": "2020-04-26T17:58:03.043863",
+            "last_retested_at_epoch": 1588017447.337705,
+            "last_retested_at_iso": "2020-04-27T19:57:27.337705",
             "status": "INACTIVE"
         },
         "commitse.ru": {
