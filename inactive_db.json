@@ -1869,6 +1869,13 @@
             "last_retested_at_iso": "2020-04-26T16:22:58.605431",
             "status": "INACTIVE"
         },
+        "xxi.ss.la": {
+            "included_at_epoch": 1587972286.698549,
+            "included_at_iso": "2020-04-27T07:24:46.698549",
+            "last_retested_at_epoch": 1587972286.698549,
+            "last_retested_at_iso": "2020-04-27T07:24:46.698549",
+            "status": "INACTIVE"
+        },
         "yanagi.co.kr": {
             "included_at_epoch": 1587918181.880062,
             "included_at_iso": "2020-04-26T16:23:01.880062",
