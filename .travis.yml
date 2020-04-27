@@ -6,7 +6,6 @@ env:
     global:
     -   GIT_NAME: Travis CI
     -   GIT_EMAIL: dead-hosts@funilrys.com
-    -   TRAVIS_REPO_SLUG: dead-hosts/xfiles_siteblock_git_gioxx
     -   GIT_BRANCH: master
     -   secure: dVrTy2p4w09xaajdbn1qZySBZ+ZV2H/cwl3fnENsmkl9dHTHXQ3R6YvEP3oMA21NtlYX7chDRQNqUkJ8FSqpnzJ3nU1JJLgc/1ub3nes8wqyASysb2ha5zgkQNjXhQ4ICNUoeDxgtVTYbp20NnSQdOllC4wwkBK6heNJErUgXo/Q/ajFUAMB5P5osuR7s2to3W36c6Yfm60TRpBmzsT7otuNt3AdUF4aGrX/bLQsDxz6RwTAtIUYZHE6LscXCgJ7cFTMPUrj/oll4VvluCoZZMaErj8/Y7k+oBW/FkMzgZPA88pBMD1Y32ctvuS4cEI+WllSv/3liXfCR5o2pGPorNJ7X8smey436fceYW7lZiXR28Y6dmpOCTjqhgybufl+exli7C0lkPcZcmaZ3VJeBPC8FuwVB89g8gxtKkw7a0O4gqWKi5QfK4NaCFHu1h7kneG2isnbG/w0wqiexPDHzTzidiJDXhG+fkhdI6L6C+9FGcKH6seou3VEqHOqVVAnPLrBqVchalrse65AF3fXWTRHh+HtbZ8Wneb7aOrCgv6FyP/1NFuvAnizJ1B2t5OwbXYLvKHf+pLx8c1DbBphcqlPyPcDQOisrJvBJkOJZgG6Lmm/lyWeVaqICXk/zEMERZsbAEWZHweT1yu3FLZPtUJNkaSyYXGbFL/cCZq+1/E=
     matrix:
@@ -30,7 +29,7 @@ notifications:
         on_failure: always
         on_success: never
         recipients:
-        - dead-hosts@funilrys.com
+        - dead-hosts@outlook.com
 os:
 - linux
 script:
