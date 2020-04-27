@@ -8385,8 +8385,8 @@
         "state": "future"
     },
     "ccycny.com": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "cdhomexpo.cn": {
@@ -14682,7 +14682,7 @@
     "ewubo.net": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "exawn.xyz": {
         "epoch": 1602115200.0,
@@ -31392,7 +31392,7 @@
     "parttimecollegejobs.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "partyplanninghelp.com": {
         "epoch": 1590969600.0,
