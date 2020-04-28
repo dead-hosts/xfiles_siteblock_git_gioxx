@@ -1750,13 +1750,6 @@
             "last_retested_at_iso": "2020-04-27T16:37:11.110078",
             "status": "INACTIVE"
         },
-        "www.jwdn.net": {
-            "included_at_epoch": 1587997387.950506,
-            "included_at_iso": "2020-04-27T14:23:07.950506",
-            "last_retested_at_epoch": 1587997387.950506,
-            "last_retested_at_iso": "2020-04-27T14:23:07.950506",
-            "status": "INACTIVE"
-        },
         "www.laobaozj.com": {
             "included_at_epoch": 1587916754.368263,
             "included_at_iso": "2020-04-26T15:59:14.368263",
