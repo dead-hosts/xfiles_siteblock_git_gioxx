@@ -630,6 +630,13 @@
             "last_retested_at_iso": "2020-04-28T17:03:34.014050",
             "status": "INACTIVE"
         },
+        "goog1eanalitics.pw": {
+            "included_at_epoch": 1588110951.34786,
+            "included_at_iso": "2020-04-28T21:55:51.347860",
+            "last_retested_at_epoch": 1588110951.34786,
+            "last_retested_at_iso": "2020-04-28T21:55:51.347860",
+            "status": "INACTIVE"
+        },
         "google.maniyakat.cn": {
             "included_at_epoch": 1587920246.954881,
             "included_at_iso": "2020-04-26T16:57:26.954881",
@@ -717,8 +724,8 @@
         "huate.hk": {
             "included_at_epoch": 1587923885.556185,
             "included_at_iso": "2020-04-26T17:58:05.556185",
-            "last_retested_at_epoch": 1587923885.556185,
-            "last_retested_at_iso": "2020-04-26T17:58:05.556185",
+            "last_retested_at_epoch": 1588110973.291171,
+            "last_retested_at_iso": "2020-04-28T21:56:13.291171",
             "status": "INACTIVE"
         },
         "ibookschool.co.kr": {
