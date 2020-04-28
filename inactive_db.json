@@ -1771,13 +1771,6 @@
             "last_retested_at_iso": "2020-04-27T18:53:00.474489",
             "status": "INACTIVE"
         },
-        "www.qhdast.com": {
-            "included_at_epoch": 1587956672.609982,
-            "included_at_iso": "2020-04-27T03:04:32.609982",
-            "last_retested_at_epoch": 1587956672.609982,
-            "last_retested_at_iso": "2020-04-27T03:04:32.609982",
-            "status": "INACTIVE"
-        },
         "www.stkjw.net": {
             "included_at_epoch": 1587916754.37133,
             "included_at_iso": "2020-04-26T15:59:14.371330",
