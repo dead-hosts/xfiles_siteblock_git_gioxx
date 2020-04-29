@@ -714,6 +714,13 @@
             "last_retested_at_iso": "2020-04-28T17:03:40.768702",
             "status": "INACTIVE"
         },
+        "hi8.ss.la": {
+            "included_at_epoch": 1588146623.157736,
+            "included_at_iso": "2020-04-29T07:50:23.157736",
+            "last_retested_at_epoch": 1588146623.157736,
+            "last_retested_at_iso": "2020-04-29T07:50:23.157736",
+            "status": "INACTIVE"
+        },
         "hosse-neuenburg.de": {
             "included_at_epoch": 1587918177.222092,
             "included_at_iso": "2020-04-26T16:22:57.222092",
