@@ -448,6 +448,13 @@
             "last_retested_at_iso": "2020-04-28T17:03:38.420630",
             "status": "INACTIVE"
         },
+        "dl.bzgthg.com": {
+            "included_at_epoch": 1588176143.139147,
+            "included_at_iso": "2020-04-29T16:02:23.139147",
+            "last_retested_at_epoch": 1588176143.139147,
+            "last_retested_at_iso": "2020-04-29T16:02:23.139147",
+            "status": "INACTIVE"
+        },
         "down.tututool.com": {
             "included_at_epoch": 1588093436.301721,
             "included_at_iso": "2020-04-28T17:03:56.301721",
@@ -1783,6 +1790,13 @@
             "included_at_iso": "2020-04-26T15:59:14.366138",
             "last_retested_at_epoch": 1588093418.210867,
             "last_retested_at_iso": "2020-04-28T17:03:38.210867",
+            "status": "INACTIVE"
+        },
+        "www.jwdn.net": {
+            "included_at_epoch": 1588176126.397597,
+            "included_at_iso": "2020-04-29T16:02:06.397597",
+            "last_retested_at_epoch": 1588176126.397597,
+            "last_retested_at_iso": "2020-04-29T16:02:06.397597",
             "status": "INACTIVE"
         },
         "www.laobaozj.com": {
