@@ -392,6 +392,13 @@
             "last_retested_at_iso": "2020-04-28T18:15:08.324439",
             "status": "INACTIVE"
         },
+        "d.srui.cn": {
+            "included_at_epoch": 1588171560.682682,
+            "included_at_iso": "2020-04-29T14:46:00.682682",
+            "last_retested_at_epoch": 1588171560.682682,
+            "last_retested_at_iso": "2020-04-29T14:46:00.682682",
+            "status": "INACTIVE"
+        },
         "dadossolicitado-antendimento.sad879.mobi": {
             "included_at_epoch": 1587916749.385103,
             "included_at_iso": "2020-04-26T15:59:09.385103",
