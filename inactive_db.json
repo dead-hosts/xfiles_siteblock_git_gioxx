@@ -77,13 +77,6 @@
             "last_retested_at_iso": "2020-04-29T17:13:25.848290",
             "status": "INACTIVE"
         },
-        "aaron.fansju.com": {
-            "included_at_epoch": 1588119103.312604,
-            "included_at_iso": "2020-04-29T00:11:43.312604",
-            "last_retested_at_epoch": 1588119103.312604,
-            "last_retested_at_iso": "2020-04-29T00:11:43.312604",
-            "status": "INACTIVE"
-        },
         "ad.words-google.com": {
             "included_at_epoch": 1587916767.746376,
             "included_at_iso": "2020-04-26T15:59:27.746376",
@@ -94,8 +87,8 @@
         "adwordsgooglecouk.fectmoney.com": {
             "included_at_epoch": 1587921952.671964,
             "included_at_iso": "2020-04-26T17:25:52.671964",
-            "last_retested_at_epoch": 1588106671.218105,
-            "last_retested_at_iso": "2020-04-28T20:44:31.218105",
+            "last_retested_at_epoch": 1588267087.462805,
+            "last_retested_at_iso": "2020-04-30T17:18:07.462805",
             "status": "INACTIVE"
         },
         "aeaer.com": {
@@ -441,6 +434,13 @@
             "last_retested_at_iso": "2020-04-29T17:13:17.762746",
             "status": "INACTIVE"
         },
+        "dl.bzgthg.com": {
+            "included_at_epoch": 1588267070.39904,
+            "included_at_iso": "2020-04-30T17:17:50.399040",
+            "last_retested_at_epoch": 1588267070.39904,
+            "last_retested_at_iso": "2020-04-30T17:17:50.399040",
+            "status": "INACTIVE"
+        },
         "down.tututool.com": {
             "included_at_epoch": 1588260421.328046,
             "included_at_iso": "2020-04-30T15:27:01.328046",
@@ -642,6 +642,13 @@
             "included_at_iso": "2020-04-26T15:59:10.181799",
             "last_retested_at_epoch": 1588249337.423388,
             "last_retested_at_iso": "2020-04-30T12:22:17.423388",
+            "status": "INACTIVE"
+        },
+        "goog1eanalitics.pw": {
+            "included_at_epoch": 1588267070.552885,
+            "included_at_iso": "2020-04-30T17:17:50.552885",
+            "last_retested_at_epoch": 1588267070.552885,
+            "last_retested_at_iso": "2020-04-30T17:17:50.552885",
             "status": "INACTIVE"
         },
         "google.maniyakat.cn": {
