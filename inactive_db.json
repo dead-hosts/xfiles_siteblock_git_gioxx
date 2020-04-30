@@ -441,13 +441,6 @@
             "last_retested_at_iso": "2020-04-29T17:13:17.762746",
             "status": "INACTIVE"
         },
-        "dl.bzgthg.com": {
-            "included_at_epoch": 1588176143.139147,
-            "included_at_iso": "2020-04-29T16:02:23.139147",
-            "last_retested_at_epoch": 1588176143.139147,
-            "last_retested_at_iso": "2020-04-29T16:02:23.139147",
-            "status": "INACTIVE"
-        },
         "down.tututool.com": {
             "included_at_epoch": 1588260421.328046,
             "included_at_iso": "2020-04-30T15:27:01.328046",
@@ -1764,13 +1757,6 @@
             "last_retested_at_iso": "2020-04-29T17:13:17.562840",
             "status": "INACTIVE"
         },
-        "www.jwdn.net": {
-            "included_at_epoch": 1588176126.397597,
-            "included_at_iso": "2020-04-29T16:02:06.397597",
-            "last_retested_at_epoch": 1588176126.397597,
-            "last_retested_at_iso": "2020-04-29T16:02:06.397597",
-            "status": "INACTIVE"
-        },
         "www.laobaozj.com": {
             "included_at_epoch": 1587916754.368263,
             "included_at_iso": "2020-04-26T15:59:14.368263",
@@ -1825,6 +1811,13 @@
             "included_at_iso": "2020-04-26T15:59:27.749513",
             "last_retested_at_epoch": 1588180410.993096,
             "last_retested_at_iso": "2020-04-29T17:13:30.993096",
+            "status": "INACTIVE"
+        },
+        "xiazai.dns-vip.net": {
+            "included_at_epoch": 1588263883.091401,
+            "included_at_iso": "2020-04-30T16:24:43.091401",
+            "last_retested_at_epoch": 1588263883.091401,
+            "last_retested_at_iso": "2020-04-30T16:24:43.091401",
             "status": "INACTIVE"
         },
         "xpxp06.com": {
