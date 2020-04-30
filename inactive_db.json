@@ -392,13 +392,6 @@
             "last_retested_at_iso": "2020-04-30T13:22:39.909213",
             "status": "INACTIVE"
         },
-        "d.srui.cn": {
-            "included_at_epoch": 1588171560.682682,
-            "included_at_iso": "2020-04-29T14:46:00.682682",
-            "last_retested_at_epoch": 1588171560.682682,
-            "last_retested_at_iso": "2020-04-29T14:46:00.682682",
-            "status": "INACTIVE"
-        },
         "dadossolicitado-antendimento.sad879.mobi": {
             "included_at_epoch": 1587916749.385103,
             "included_at_iso": "2020-04-26T15:59:09.385103",
@@ -453,6 +446,13 @@
             "included_at_iso": "2020-04-29T16:02:23.139147",
             "last_retested_at_epoch": 1588176143.139147,
             "last_retested_at_iso": "2020-04-29T16:02:23.139147",
+            "status": "INACTIVE"
+        },
+        "down.tututool.com": {
+            "included_at_epoch": 1588260421.328046,
+            "included_at_iso": "2020-04-30T15:27:01.328046",
+            "last_retested_at_epoch": 1588260421.328046,
+            "last_retested_at_iso": "2020-04-30T15:27:01.328046",
             "status": "INACTIVE"
         },
         "downflvplayer.com": {
@@ -542,8 +542,8 @@
         "fetish-art.net": {
             "included_at_epoch": 1587921949.133112,
             "included_at_iso": "2020-04-26T17:25:49.133112",
-            "last_retested_at_epoch": 1588106667.62498,
-            "last_retested_at_iso": "2020-04-28T20:44:27.624980",
+            "last_retested_at_epoch": 1588260434.608002,
+            "last_retested_at_iso": "2020-04-30T15:27:14.608002",
             "status": "INACTIVE"
         },
         "fightagent.ru": {
@@ -1487,8 +1487,8 @@
         "spyshredderscanner.com": {
             "included_at_epoch": 1587921950.55078,
             "included_at_iso": "2020-04-26T17:25:50.550780",
-            "last_retested_at_epoch": 1588106669.053481,
-            "last_retested_at_iso": "2020-04-28T20:44:29.053481",
+            "last_retested_at_epoch": 1588260436.027573,
+            "last_retested_at_iso": "2020-04-30T15:27:16.027573",
             "status": "INACTIVE"
         },
         "spywareshop.info": {
@@ -1585,8 +1585,8 @@
         "trafficroup.com": {
             "included_at_epoch": 1587921950.545552,
             "included_at_iso": "2020-04-26T17:25:50.545552",
-            "last_retested_at_epoch": 1588106669.058635,
-            "last_retested_at_iso": "2020-04-28T20:44:29.058635",
+            "last_retested_at_epoch": 1588260436.032609,
+            "last_retested_at_iso": "2020-04-30T15:27:16.032609",
             "status": "INACTIVE"
         },
         "tvmedion.pl": {
@@ -1781,8 +1781,8 @@
         "www.nexxis.com.sg": {
             "included_at_epoch": 1587921950.631926,
             "included_at_iso": "2020-04-26T17:25:50.631926",
-            "last_retested_at_epoch": 1588106669.136733,
-            "last_retested_at_iso": "2020-04-28T20:44:29.136733",
+            "last_retested_at_epoch": 1588260436.11004,
+            "last_retested_at_iso": "2020-04-30T15:27:16.110040",
             "status": "INACTIVE"
         },
         "www.stkjw.net": {
