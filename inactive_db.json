@@ -77,6 +77,13 @@
             "last_retested_at_iso": "2020-04-30T18:17:58.124822",
             "status": "INACTIVE"
         },
+        "aaron.fansju.com": {
+            "included_at_epoch": 1588282386.05832,
+            "included_at_iso": "2020-04-30T21:33:06.058320",
+            "last_retested_at_epoch": 1588282386.05832,
+            "last_retested_at_iso": "2020-04-30T21:33:06.058320",
+            "status": "INACTIVE"
+        },
         "ad.words-google.com": {
             "included_at_epoch": 1587916767.746376,
             "included_at_iso": "2020-04-26T15:59:27.746376",
@@ -1769,6 +1776,13 @@
             "included_at_iso": "2020-04-26T17:25:50.631926",
             "last_retested_at_epoch": 1588260436.11004,
             "last_retested_at_iso": "2020-04-30T15:27:16.110040",
+            "status": "INACTIVE"
+        },
+        "www.rsrly.com": {
+            "included_at_epoch": 1588282350.736547,
+            "included_at_iso": "2020-04-30T21:32:30.736547",
+            "last_retested_at_epoch": 1588282350.736547,
+            "last_retested_at_iso": "2020-04-30T21:32:30.736547",
             "status": "INACTIVE"
         },
         "www.stkjw.net": {
