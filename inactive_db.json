@@ -185,15 +185,15 @@
         "asstraffic18.net": {
             "included_at_epoch": 1587921953.85945,
             "included_at_iso": "2020-04-26T17:25:53.859450",
-            "last_retested_at_epoch": 1588106672.377535,
-            "last_retested_at_iso": "2020-04-28T20:44:32.377535",
+            "last_retested_at_epoch": 1588274514.774399,
+            "last_retested_at_iso": "2020-04-30T19:21:54.774399",
             "status": "INACTIVE"
         },
         "aupvfp.com": {
             "included_at_epoch": 1587921953.864745,
             "included_at_iso": "2020-04-26T17:25:53.864745",
-            "last_retested_at_epoch": 1588106672.372349,
-            "last_retested_at_iso": "2020-04-28T20:44:32.372349",
+            "last_retested_at_epoch": 1588274514.859062,
+            "last_retested_at_iso": "2020-04-30T19:21:54.859062",
             "status": "INACTIVE"
         },
         "autosegurancabrasil.com": {
@@ -203,18 +203,11 @@
             "last_retested_at_iso": "2020-04-30T12:22:16.614202",
             "status": "INACTIVE"
         },
-        "b.szwzcf.com": {
-            "included_at_epoch": 1588163462.346363,
-            "included_at_iso": "2020-04-29T12:31:02.346363",
-            "last_retested_at_epoch": 1588163462.346363,
-            "last_retested_at_iso": "2020-04-29T12:31:02.346363",
-            "status": "INACTIVE"
-        },
         "badaonz.com": {
             "included_at_epoch": 1587923882.555914,
             "included_at_iso": "2020-04-26T17:58:02.555914",
-            "last_retested_at_epoch": 1588106672.611584,
-            "last_retested_at_iso": "2020-04-28T20:44:32.611584",
+            "last_retested_at_epoch": 1588274515.109987,
+            "last_retested_at_iso": "2020-04-30T19:21:55.109987",
             "status": "INACTIVE"
         },
         "bakuzbuq.ru": {
