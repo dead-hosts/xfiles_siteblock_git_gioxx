@@ -210,6 +210,13 @@
             "last_retested_at_iso": "2020-04-30T12:22:16.614202",
             "status": "INACTIVE"
         },
+        "b.szwzcf.com": {
+            "included_at_epoch": 1588302648.470442,
+            "included_at_iso": "2020-05-01T03:10:48.470442",
+            "last_retested_at_epoch": 1588302648.470442,
+            "last_retested_at_iso": "2020-05-01T03:10:48.470442",
+            "status": "INACTIVE"
+        },
         "badaonz.com": {
             "included_at_epoch": 1587923882.555914,
             "included_at_iso": "2020-04-26T17:58:02.555914",
