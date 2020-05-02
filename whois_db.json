@@ -1742,7 +1742,7 @@
     "adkariaca.com": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "adlawyers.net": {
         "epoch": 1599350400.0,
@@ -2760,8 +2760,8 @@
         "state": "future"
     },
     "aljannah.id": {
-        "epoch": 1587859200.0,
-        "expiration_date": "26-apr-2020",
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
         "state": "future"
     },
     "alkaramseo.com": {
@@ -4230,8 +4230,8 @@
         "state": "future"
     },
     "armleder.com": {
-        "epoch": 1588032000.0,
-        "expiration_date": "28-apr-2020",
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
         "state": "future"
     },
     "armoniaclinicadental.com": {
@@ -4375,8 +4375,8 @@
         "state": "future"
     },
     "aryakepenk.com": {
-        "epoch": 1583366400.0,
-        "expiration_date": "05-mar-2020",
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
         "state": "future"
     },
     "aryeale.it": {
@@ -7897,7 +7897,7 @@
     "canalvelo.fr": {
         "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "canarananews.com.br": {
         "epoch": 1582156800.0,
@@ -11930,8 +11930,8 @@
         "state": "future"
     },
     "dhubria.com": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "diagnosticautomobile.fr": {
@@ -12860,8 +12860,8 @@
         "state": "future"
     },
     "drughelporganizations.com": {
-        "epoch": 1585267200.0,
-        "expiration_date": "27-mar-2020",
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
         "state": "future"
     },
     "drukarniacmyk.pl": {
@@ -17995,8 +17995,8 @@
         "state": "future"
     },
     "greenworldholding.com": {
-        "epoch": 1580083200.0,
-        "expiration_date": "27-jan-2020",
+        "epoch": 1643241600.0,
+        "expiration_date": "27-jan-2022",
         "state": "future"
     },
     "greetingseuropasqq.com": {
@@ -18150,8 +18150,8 @@
         "state": "future"
     },
     "gscfreight.com.sg": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "gshopee.com": {
@@ -19135,8 +19135,8 @@
         "state": "future"
     },
     "heydanyelle.com": {
-        "epoch": 1586736000.0,
-        "expiration_date": "13-apr-2020",
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
         "state": "future"
     },
     "hftgs.com": {
@@ -22715,8 +22715,8 @@
         "state": "future"
     },
     "jumpatjax.com": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "jumpo2.com": {
@@ -25425,8 +25425,8 @@
         "state": "future"
     },
     "liverichspreadwealthglobaltelesummit.com": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "livestreamhd24.com": {
@@ -25700,8 +25700,8 @@
         "state": "future"
     },
     "longtermbusinesssolutions.com": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "longtermcareinsure.com": {
@@ -26245,8 +26245,8 @@
         "state": "future"
     },
     "magicmaid.co.za": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "magicmembershelp.com": {
@@ -28217,7 +28217,7 @@
     "moneybackfinder.com": {
         "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "moneytreebillingllc.com": {
         "epoch": 1582848000.0,
@@ -30127,7 +30127,7 @@
     "niftygifty.co.uk": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "nightvision.tech": {
         "epoch": 1599091200.0,
@@ -30677,6 +30677,11 @@
     "oceanoazulentertainment.com": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
+    "ocenka34.ru": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "ocheartsavers.com": {
@@ -31660,8 +31665,8 @@
         "state": "future"
     },
     "para-sante-moins-cher.com": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "parabrisasfavasil.cl": {
@@ -31830,8 +31835,8 @@
         "state": "future"
     },
     "pathackley.com": {
-        "epoch": 1586908800.0,
-        "expiration_date": "15-apr-2020",
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
         "state": "future"
     },
     "patriciaycarlitos.com": {
@@ -32440,8 +32445,8 @@
         "state": "future"
     },
     "pillartypejibcrane.com": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "pills.ind.in": {
@@ -33247,7 +33252,7 @@
     "privateyorkcardiologist.co.uk": {
         "epoch": 1580601600.0,
         "expiration_date": "02-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "privcoin.io": {
         "epoch": 1599264000.0,
@@ -37577,7 +37582,7 @@
     "sitemanpaintanddec.co.uk": {
         "epoch": 1583884800.0,
         "expiration_date": "11-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "sitesahome.com.br": {
         "epoch": 1615075200.0,
@@ -37745,8 +37750,8 @@
         "state": "future"
     },
     "sm3maja.waw.pl": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "smaoewewe.club": {
@@ -41885,8 +41890,8 @@
         "state": "future"
     },
     "tudouo.com": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
         "state": "future"
     },
     "tudumightyjetsfc.com": {
@@ -43845,8 +43850,8 @@
         "state": "future"
     },
     "watersedgehoa.info": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "waterviewdistillery.com": {
