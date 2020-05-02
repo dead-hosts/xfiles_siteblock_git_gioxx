@@ -564,6 +564,11 @@
         "expiration_date": "25-dec-2020",
         "state": "future"
     },
+    "401group.com": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
     "405pergolas.com": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
@@ -5382,7 +5387,7 @@
     "bankhapoailm-login.com": {
         "epoch": 1585872000.0,
         "expiration_date": "03-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "bankhapoailm.com": {
         "epoch": 1584748800.0,
@@ -9890,8 +9895,8 @@
         "state": "future"
     },
     "com-flights.com": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
         "state": "future"
     },
     "com-issueinfo.com": {
@@ -14662,7 +14667,7 @@
     "ethblock.org": {
         "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "ethclaim.info": {
         "epoch": 1595808000.0,
@@ -14762,6 +14767,11 @@
     "etoroglobal.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "etoroinvestmentltd.com": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "ets-grup.com": {
@@ -23357,7 +23367,7 @@
     "kbcbankieren.com": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "kbmindia.com": {
         "epoch": 1619568000.0,
@@ -25792,7 +25802,7 @@
     "localbitcoins.live": {
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "localbizvideo.biz": {
         "epoch": 1583625600.0,
@@ -29427,7 +29437,7 @@
     "myetherwalletn.org": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "myetherwalletv.org": {
         "epoch": 1595721600.0,
@@ -31332,7 +31342,7 @@
     "opcib.com": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "open247shopping.com": {
         "epoch": 1589587200.0,
@@ -35440,14 +35450,14 @@
         "state": "future"
     },
     "rnuelherwallet.com": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "rnyuthewallet.com": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "roadhouseng.com": {
         "epoch": 1599696000.0,
@@ -37664,6 +37674,11 @@
         "expiration_date": "04-feb-2020",
         "state": "future"
     },
+    "siambiznews.com": {
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "state": "future"
+    },
     "siamfingerscan.com": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
@@ -39070,8 +39085,8 @@
         "state": "future"
     },
     "stevenmyersphotography.com": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "stevensandersmd.com": {
@@ -40332,7 +40347,7 @@
     "techincpo.club": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "techjuicewest.com": {
         "epoch": 1605916800.0,
@@ -42917,7 +42932,7 @@
     "us6-mailchimp.com": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "usa-jiaji.com": {
         "epoch": 1602633600.0,
@@ -45388,6 +45403,11 @@
         "epoch": 1569888000.0,
         "expiration_date": "01-oct-2019",
         "state": "past"
+    },
+    "xn--localbitcins-vcd.com": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
     },
     "xn--localitcoins-bh4f.net": {
         "epoch": 1597190400.0,
