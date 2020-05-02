@@ -915,8 +915,8 @@
         "state": "future"
     },
     "7consultinggroup.com": {
-        "epoch": 1587859200.0,
-        "expiration_date": "26-apr-2020",
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
         "state": "future"
     },
     "7dyw.com": {
@@ -1870,8 +1870,8 @@
         "state": "future"
     },
     "adrianlowelljohnson.com": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
         "state": "future"
     },
     "adrianwotton.com": {
@@ -8285,8 +8285,8 @@
         "state": "future"
     },
     "casefileng.com": {
-        "epoch": 1580256000.0,
-        "expiration_date": "29-jan-2020",
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "cash-wear.com": {
@@ -18770,8 +18770,8 @@
         "state": "future"
     },
     "hatfieldent.com": {
-        "epoch": 1587254400.0,
-        "expiration_date": "19-apr-2020",
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "hatzopoulos.com": {
@@ -18792,7 +18792,7 @@
     "havven-sale.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "hawen.io": {
         "epoch": 1609027200.0,
@@ -23770,8 +23770,8 @@
         "state": "future"
     },
     "klimaservisbodrum.com": {
-        "epoch": 1585008000.0,
-        "expiration_date": "24-mar-2020",
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
         "state": "future"
     },
     "kls-marine.com": {
@@ -25130,8 +25130,8 @@
         "state": "future"
     },
     "lifestyletransformationbydesign.com": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "lifetreeorganic.com": {
@@ -25155,8 +25155,8 @@
         "state": "future"
     },
     "lightsoundstore.com": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "lignerich.com": {
@@ -31270,8 +31270,8 @@
         "state": "future"
     },
     "orientacionfamiliar.net": {
-        "epoch": 1580688000.0,
-        "expiration_date": "03-feb-2020",
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "originkinetics.com": {
@@ -33890,8 +33890,8 @@
         "state": "future"
     },
     "qrmrussia.ru": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "quadrus.com.br": {
@@ -35000,8 +35000,8 @@
         "state": "future"
     },
     "rexussoporte-appleid.com": {
-        "epoch": 1583193600.0,
-        "expiration_date": "03-mar-2020",
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
         "state": "future"
     },
     "reycross.cn": {
@@ -37260,8 +37260,8 @@
         "state": "future"
     },
     "shinemastersllc.com": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "shirohanastaff.org": {
@@ -37950,8 +37950,8 @@
         "state": "future"
     },
     "smartupcities.com": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "smashingdealz.com": {
@@ -38800,8 +38800,8 @@
         "state": "future"
     },
     "stephaniersaberan.com": {
-        "epoch": 1583280000.0,
-        "expiration_date": "04-mar-2020",
+        "epoch": 1646352000.0,
+        "expiration_date": "04-mar-2022",
         "state": "future"
     },
     "stephanlooney.com": {
@@ -41322,6 +41322,11 @@
     "tokogrosirindonesia.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "tokolaris.xyz": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "tokushu.co.uk": {
@@ -44995,8 +45000,8 @@
         "state": "future"
     },
     "xiedesign.com": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "xigushan.com": {
