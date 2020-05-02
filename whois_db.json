@@ -4820,8 +4820,8 @@
         "state": "past"
     },
     "auth-verification-pp.net": {
-        "epoch": 1580515200.0,
-        "expiration_date": "01-feb-2020",
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "authe-funds.com": {
@@ -12610,8 +12610,8 @@
         "state": "future"
     },
     "dougyrscghana.co.za": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "dovetailmedia.biz": {
@@ -12785,8 +12785,8 @@
         "state": "future"
     },
     "driveoneauth.co.uk": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "drizzarecomponentes.com.br": {
@@ -16485,9 +16485,9 @@
         "state": "future"
     },
     "funerarianovamutum.com.br": {
-        "epoch": 1570060800.0,
-        "expiration_date": "03-oct-2019",
-        "state": "past"
+        "epoch": 1648944000.0,
+        "expiration_date": "03-apr-2022",
+        "state": "future"
     },
     "funerariasinop.com.br": {
         "epoch": 1569715200.0,
@@ -16725,8 +16725,8 @@
         "state": "future"
     },
     "gandjaircraft.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1650844800.0,
+        "expiration_date": "25-apr-2022",
         "state": "future"
     },
     "gangda.info": {
@@ -20210,8 +20210,8 @@
         "state": "future"
     },
     "icontextil.com.br": {
-        "epoch": 1585008000.0,
-        "expiration_date": "24-mar-2020",
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
         "state": "future"
     },
     "icpet-intrometic.ro": {
@@ -25359,6 +25359,11 @@
         "expiration_date": "01-may-2020",
         "state": "future"
     },
+    "lish.com.mx": {
+        "epoch": 1645315200.0,
+        "expiration_date": "20-feb-2022",
+        "state": "future"
+    },
     "lisik.pl": {
         "epoch": 1615766400.0,
         "expiration_date": "15-mar-2021",
@@ -26377,6 +26382,11 @@
     "makeupbystak.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "makeuptipsbykittu.com": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "makewebapp.com": {
@@ -32155,8 +32165,8 @@
         "state": "future"
     },
     "pepperkelly.com": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "perabotanrumah.com": {
@@ -34305,8 +34315,8 @@
         "state": "future"
     },
     "rce-jo.com": {
-        "epoch": 1586563200.0,
-        "expiration_date": "11-apr-2020",
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
         "state": "future"
     },
     "rcenea-solaire.com": {
@@ -34540,8 +34550,8 @@
         "state": "future"
     },
     "refispokane.com": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "reformandrevive.com": {
@@ -34800,8 +34810,8 @@
         "state": "future"
     },
     "responsegenie.com": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "restaurant-lapasserelle.com": {
@@ -35042,6 +35052,11 @@
     "rinhoavl.com.ar": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "rioclassof75.com": {
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
         "state": "future"
     },
     "rioparkma.com.br": {
@@ -36695,8 +36710,8 @@
         "state": "future"
     },
     "sentraco.com": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "sentrol.cl": {
@@ -37940,8 +37955,8 @@
         "state": "future"
     },
     "smurywtertw.info": {
-        "epoch": 1580947200.0,
-        "expiration_date": "06-feb-2020",
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
         "state": "future"
     },
     "sn-gzzx.com": {
@@ -40175,8 +40190,8 @@
         "state": "future"
     },
     "temp-violation-page.com": {
-        "epoch": 1586908800.0,
-        "expiration_date": "15-apr-2020",
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
         "state": "future"
     },
     "tempanalise.pt": {
@@ -42260,8 +42275,8 @@
         "state": "future"
     },
     "umiortechnical.com": {
-        "epoch": 1587081600.0,
-        "expiration_date": "17-apr-2020",
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "state": "future"
     },
     "umo.io": {
@@ -42855,8 +42870,8 @@
         "state": "future"
     },
     "vatakaranriforum.com": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "vatanparvar.uz": {
@@ -42965,8 +42980,8 @@
         "state": "future"
     },
     "verification-violation-page.com": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "verificationticket.com": {
