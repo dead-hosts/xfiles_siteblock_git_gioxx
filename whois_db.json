@@ -1157,7 +1157,7 @@
     "a-cave.net": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "a-la-fontaine.com": {
         "epoch": 1589932800.0,
@@ -6600,8 +6600,8 @@
         "state": "future"
     },
     "blackhogriflecompany.com": {
-        "epoch": 1586908800.0,
-        "expiration_date": "15-apr-2020",
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
         "state": "future"
     },
     "blackindustrialsolutions.com": {
@@ -8100,8 +8100,8 @@
         "state": "future"
     },
     "careeducation.com": {
-        "epoch": 1586649600.0,
-        "expiration_date": "12-apr-2020",
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "careergraphinternational.com": {
@@ -9192,7 +9192,7 @@
     "cianorte.com.ar": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "cibonline.org": {
         "epoch": 1609632000.0,
@@ -10990,8 +10990,8 @@
         "state": "future"
     },
     "cyprusrentalvilla.co.uk": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "czbaoyu.com": {
@@ -14612,7 +14612,7 @@
     "ethoflix.com": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "ethsafe.promo": {
         "epoch": 1595203200.0,
@@ -14825,8 +14825,8 @@
         "state": "future"
     },
     "evolutionarmy.com": {
-        "epoch": 1581379200.0,
-        "expiration_date": "11-feb-2020",
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "evolutionengrg.com": {
@@ -15440,8 +15440,8 @@
         "state": "future"
     },
     "ferrokim.com.tr": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "fetishfitnessbabes.com": {
@@ -15512,6 +15512,11 @@
     "fiestasguadalajara.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "fightingcancer.net": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
         "state": "future"
     },
     "fikhrr.com": {
@@ -17737,7 +17742,7 @@
     "gosofto.com": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "gotogotomeeting.com": {
         "epoch": 1604448000.0,
@@ -20035,8 +20040,8 @@
         "state": "future"
     },
     "ibag-sale.com": {
-        "epoch": 1588032000.0,
-        "expiration_date": "28-apr-2020",
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
         "state": "future"
     },
     "ibericafeltros.com": {
@@ -20415,8 +20420,8 @@
         "state": "future"
     },
     "ilhankuyumculuk.com.tr": {
-        "epoch": 1584576000.0,
-        "expiration_date": "19-mar-2020",
+        "epoch": 1710806400.0,
+        "expiration_date": "19-mar-2024",
         "state": "future"
     },
     "iliavilla.com": {
@@ -32390,8 +32395,8 @@
         "state": "future"
     },
     "phpcouponscript.com": {
-        "epoch": 1586822400.0,
-        "expiration_date": "14-apr-2020",
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "phsea.net": {
@@ -32905,8 +32910,8 @@
         "state": "future"
     },
     "positivebarperu.com": {
-        "epoch": 1585267200.0,
-        "expiration_date": "27-mar-2020",
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
         "state": "future"
     },
     "positivebusinessimages.com": {
@@ -34525,8 +34530,8 @@
         "state": "future"
     },
     "regionalconcreteco.com": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
         "state": "future"
     },
     "regionalradiologytrendsconference.com": {
@@ -35277,7 +35282,7 @@
     "rolzem.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "romsigmed.ro": {
         "epoch": 1569283200.0,
@@ -38185,8 +38190,8 @@
         "state": "future"
     },
     "soothingminds.biz": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "soporte-seguro-servidores278.com": {
@@ -38700,8 +38705,8 @@
         "state": "future"
     },
     "stitchandswitch.com": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "stitchgrrl.com": {
@@ -40425,8 +40430,8 @@
         "state": "future"
     },
     "thebernoullieffect.com": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "thebestbusinessadvices.com": {
@@ -41602,7 +41607,7 @@
     "travel274.com": {
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "travelboysafrica.com": {
         "epoch": 1599004800.0,
@@ -43262,6 +43267,11 @@
     "viralbangla.com": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "viralmeow.com": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "viralnook.com": {
