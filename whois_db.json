@@ -15559,6 +15559,11 @@
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
+    "feriamarket.cl": {
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
+        "state": "future"
+    },
     "fernandomalta.adv.br": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
@@ -27790,9 +27795,9 @@
         "state": "future"
     },
     "mhfitnesspilates.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "mhnrw.com": {
         "epoch": 1596326400.0,
