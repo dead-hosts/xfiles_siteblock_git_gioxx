@@ -4864,6 +4864,11 @@
         "expiration_date": "05-jun-2020",
         "state": "future"
     },
+    "authorizations-wfb.xyz": {
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
     "autobkk.com": {
         "epoch": 1617926400.0,
         "expiration_date": "09-apr-2021",
@@ -10102,6 +10107,11 @@
     "confirm-info-signin.com": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
+    "confirmation-wfbnk.xyz": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "state": "future"
     },
     "confortrans.com": {
@@ -28395,9 +28405,9 @@
         "state": "future"
     },
     "modtdd.xyz": {
-        "epoch": 1562976000,
-        "expiration_date": "13-jul-2019",
-        "state": "past"
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
     },
     "modularackusa.com": {
         "epoch": 1606348800.0,
@@ -42725,8 +42735,8 @@
         "state": "future"
     },
     "unelmacoin.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "unhilorojo.com": {
