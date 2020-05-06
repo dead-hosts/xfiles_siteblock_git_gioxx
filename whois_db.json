@@ -4529,6 +4529,11 @@
         "expiration_date": "10-aug-2020",
         "state": "future"
     },
+    "asistanim.org": {
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
+        "state": "future"
+    },
     "asj999.com": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
@@ -5282,7 +5287,7 @@
     "bakesquare.com": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "balance-alone.com": {
         "epoch": 1590796800.0,
@@ -14729,6 +14734,11 @@
         "expiration_date": "02-aug-2019",
         "state": "past"
     },
+    "etherpay.site": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
     "ethersearch.app": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
@@ -21525,8 +21535,8 @@
         "state": "future"
     },
     "ismyclass.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "isonomia.com.ar": {
@@ -25235,8 +25245,8 @@
         "state": "future"
     },
     "library.ooo": {
-        "epoch": 1585785600.0,
-        "expiration_date": "02-apr-2020",
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "libroglobale.bid": {
@@ -26317,7 +26327,7 @@
     "lvivske.md": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "lvmhgroup.co.th": {
         "epoch": 1635552000.0,
@@ -32505,8 +32515,8 @@
         "state": "future"
     },
     "permis-ok.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "pernikunik.com": {
@@ -33130,8 +33140,8 @@
         "state": "future"
     },
     "pondroadsouthselfstorage.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "ponnusmats.com": {
