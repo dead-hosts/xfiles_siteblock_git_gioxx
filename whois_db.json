@@ -4110,9 +4110,9 @@
         "state": "future"
     },
     "archiviodellamemoria.it": {
-        "epoch": 1587168000.0,
-        "expiration_date": "18-apr-2020",
-        "state": "past"
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
+        "state": "future"
     },
     "archtopmakers.com": {
         "epoch": 1613606400.0,
@@ -9470,9 +9470,9 @@
         "state": "future"
     },
     "classicink.biz": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
     },
     "classicspeedway.com": {
         "epoch": 1602633600.0,
@@ -42480,8 +42480,8 @@
         "state": "future"
     },
     "twilightfalling.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "twinsmacau.com": {
