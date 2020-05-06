@@ -24735,8 +24735,8 @@
         "state": "future"
     },
     "laughtersoundhealing.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "lauglyhousebuyers.com": {
@@ -30242,6 +30242,11 @@
     "newservoppl.it": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "newsreader.site": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "state": "future"
     },
     "newstar.com.mk": {
