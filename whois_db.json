@@ -5955,8 +5955,8 @@
         "state": "future"
     },
     "bengkalisinfo.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "bengkelcatmobiltangsel.com": {
@@ -10387,7 +10387,7 @@
     "corso-droni.it": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "corunusa.com": {
         "epoch": 1599436800.0,
