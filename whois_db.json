@@ -8242,7 +8242,7 @@
     "caroradenoche.com.ve": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "carpet-cleaning-directory.com": {
         "epoch": 1604620800.0,
@@ -13130,8 +13130,8 @@
         "state": "future"
     },
     "dveri-pmr.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "dvss.in": {
@@ -31410,8 +31410,8 @@
         "state": "future"
     },
     "oralmedicips.com.co": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "orangeband.biz": {
