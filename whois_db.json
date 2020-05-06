@@ -34525,8 +34525,8 @@
         "state": "past"
     },
     "rankinchemicaltech.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "rapadurashamburguesa.com.br": {
@@ -35167,6 +35167,11 @@
     "restaurantneelam.com": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "restore-immediate-security.xyz": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "restrictedpagesapple.com": {
@@ -37640,8 +37645,8 @@
         "state": "future"
     },
     "showcore.net": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "shraddhainternational.in": {
@@ -41740,8 +41745,8 @@
         "state": "future"
     },
     "topeni-vlcek.cz": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
         "state": "future"
     },
     "topfoodseafood.com": {
