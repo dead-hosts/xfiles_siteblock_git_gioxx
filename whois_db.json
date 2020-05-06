@@ -25854,6 +25854,11 @@
         "expiration_date": "03-apr-2021",
         "state": "future"
     },
+    "login-accounts.online": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
     "login-blockchainn.info": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
@@ -43385,8 +43390,8 @@
         "state": "past"
     },
     "verified-team.online": {
-        "epoch": 1583625600.0,
-        "expiration_date": "08-mar-2020",
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
         "state": "future"
     },
     "verifiedaccess0.com": {
