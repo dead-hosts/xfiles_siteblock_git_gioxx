@@ -15295,8 +15295,8 @@
         "state": "future"
     },
     "falconexport.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "falconsafe.com.sg": {
@@ -24197,7 +24197,7 @@
     "krasota-olimpia.ru": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "krdocs.com": {
         "epoch": 1589068800.0,
