@@ -26082,7 +26082,7 @@
     "lpcloudsvr302.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "lpmxp2017.com": {
         "epoch": 1598659200.0,
