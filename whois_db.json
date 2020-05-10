@@ -34920,9 +34920,9 @@
         "state": "future"
     },
     "refund-cash.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
-        "state": "past"
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "state": "future"
     },
     "regalocapital.com": {
         "epoch": 1617148800.0,
