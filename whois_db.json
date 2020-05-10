@@ -3170,9 +3170,9 @@
         "state": "future"
     },
     "amcsolutions.com.br": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
-        "state": "past"
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "state": "future"
     },
     "amdftabasco.org.mx": {
         "epoch": 1599782400.0,
@@ -15760,9 +15760,9 @@
         "state": "future"
     },
     "finanzu.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
-        "state": "past"
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "state": "future"
     },
     "findid-icloud.com": {
         "epoch": 1581379200.0,
@@ -43917,7 +43917,7 @@
     "viswanathakshetram.org": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "vital-confirmation-protection.services": {
         "epoch": 1567468800,
