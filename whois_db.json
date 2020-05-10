@@ -3742,7 +3742,7 @@
     "aparthotelholiday.it": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "apartment-mall.cn": {
         "epoch": 1595980800.0,
@@ -10200,8 +10200,8 @@
         "state": "future"
     },
     "consumerhealthresearch.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "contabilwakiyama.com.br": {
@@ -44912,7 +44912,7 @@
     "wizbongre.co.uk": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "wkmg.co.kr": {
         "epoch": 1591574400.0,
