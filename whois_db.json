@@ -8450,8 +8450,8 @@
         "state": "future"
     },
     "cattrainingguide.co.uk": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "causeandfx.com": {
@@ -34832,7 +34832,7 @@
     "redcaporganizer.com": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "redctt-faury.com": {
         "epoch": 1598572800.0,
