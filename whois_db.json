@@ -37340,8 +37340,8 @@
         "state": "future"
     },
     "shadevenezuela.com.ve": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "shafayat.com": {
@@ -39625,9 +39625,9 @@
         "state": "future"
     },
     "superqualitypackers.com": {
-        "epoch": 1582156800.0,
-        "expiration_date": "20-feb-2020",
-        "state": "past"
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
     },
     "superstarpanda.com": {
         "epoch": 1612051200.0,
