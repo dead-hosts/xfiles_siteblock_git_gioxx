@@ -40542,7 +40542,7 @@
     "telefonosalmayor.com.ve": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "telephonie-voip.info": {
         "epoch": 1611792000.0,
