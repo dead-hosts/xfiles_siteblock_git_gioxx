@@ -1,22 +1,22 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "custom_pyfunceble_config": {
         "adblock": true
     },
     "days_until_next_test": 2.0,
-    "finish_datetime": "2020-05-10T15:39:46.875123",
-    "finish_timestamp": 1589125186.875123,
-    "last_download_datetime": "2020-05-10T15:37:44.361403",
-    "last_download_timestamp": 1589125064.361403,
-    "latest_part_finish_datetime": "2020-05-10T15:39:46.875123",
-    "latest_part_finish_timestamp": 1589125186.875123,
-    "latest_part_start_datetime": "2020-05-10T15:37:44.372665",
-    "latest_part_start_timestamp": 1589125064.372665,
+    "finish_datetime": "1970-01-01T00:00:00",
+    "finish_timestamp": 0.0,
+    "last_download_datetime": "2020-05-12T20:06:12.239539",
+    "last_download_timestamp": 1589313972.239539,
+    "latest_part_finish_datetime": "2020-05-12T20:16:20.979198",
+    "latest_part_finish_timestamp": 1589314580.979198,
+    "latest_part_start_datetime": "2020-05-12T20:06:12.249715",
+    "latest_part_start_timestamp": 1589313972.249715,
     "live_update": true,
     "name": "xfiles_siteblock_git_gioxx",
     "own_management": false,
     "ping": [],
     "raw_link": "https://raw.githubusercontent.com/gioxx/xfiles/master/siteblock.txt",
-    "start_datetime": "2020-05-08T19:16:30.407180",
-    "start_timestamp": 1588965390.40718
+    "start_datetime": "2020-05-12T20:06:12.247388",
+    "start_timestamp": 1589313972.247388
 }
