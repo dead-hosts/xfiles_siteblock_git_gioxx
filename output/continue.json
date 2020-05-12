@@ -1,7 +1,27 @@
 {
     "/home/travis/build/dead-hosts/xfiles_siteblock_git_gioxx/domains.list": {
         "ACTIVE": [
-            "hitnrun.com.my"
+            "hitnrun.com.my",
+            "dicrophani.com",
+            "airtyrant.com",
+            "dionneg.com",
+            "vipprojects.cn",
+            "hhj3.cn",
+            "hryspap.cn",
+            "tourindia.in",
+            "ksdiy.com",
+            "appprices.com",
+            "greenculturefoundation.org",
+            "globalnursesonline.com",
+            "tinypic.info",
+            "czbaoyu.com",
+            "dawnsworld.mysticalgateway.com",
+            "hecs.com",
+            "de007.net",
+            "perugemstones.com",
+            "dwnloader.com",
+            "la21jeju.or.kr",
+            "laextradeocotlan.com.mx"
         ],
         "INACTIVE": [
             "autosegurancabrasil.com",
@@ -10,7 +30,21 @@
             "maruthorvattomsrianjaneyatemple.org",
             "paypalsecure-2016.sucurecode524154241.arita.ac.tz",
             "tonyyeo.com",
-            "tei.portal.crockerandwestridge.com"
+            "tei.portal.crockerandwestridge.com",
+            "usaa.com-sec-inet-auth-logon-ent-logon-logon-redirectjsp.chrischadwick.com.au",
+            "update-apple.com.betawihosting.net",
+            "yhiltd.co.uk",
+            "windrushvalleyjoinery.co.uk",
+            "iebar.t2t2.com",
+            "bakuzbuq.ru",
+            "ccjbox.ivyro.net",
+            "golfsource.us",
+            "gavih.org",
+            "guyouellette.org",
+            "gsiworld.neostrada.pl",
+            "dccallers.org",
+            "jdsemnan.ac.ir",
+            "lagrotta4u.de"
         ]
     }
 }
