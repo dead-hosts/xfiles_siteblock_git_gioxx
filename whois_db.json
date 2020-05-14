@@ -1790,8 +1790,8 @@
         "state": "future"
     },
     "administrativefirm.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "adminpayfinance.xyz": {
@@ -4600,13 +4600,13 @@
         "state": "future"
     },
     "assure-ameli-moncompte-remboursement.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "assure-moncompte-enligne.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "astra-marina.ru": {
@@ -12450,8 +12450,8 @@
         "state": "future"
     },
     "divineinsightoverseas.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
         "state": "future"
     },
     "divyanshunayak.com": {
@@ -17875,9 +17875,9 @@
         "state": "future"
     },
     "goodmoneywealth.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
-        "state": "past"
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
     },
     "goodphpprogrammer.com": {
         "epoch": 1606780800.0,
@@ -18760,8 +18760,8 @@
         "state": "future"
     },
     "handymend.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "hangarcenter.com.br": {
