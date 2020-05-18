@@ -9610,9 +9610,9 @@
         "state": "past"
     },
     "clinicfordiet.com": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
-        "state": "past"
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
     },
     "clinicombiosolution.com": {
         "epoch": 1612742400.0,
