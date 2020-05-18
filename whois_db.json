@@ -1995,8 +1995,8 @@
         "state": "future"
     },
     "af-cn.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "afentulhosmanaus.com.br": {
@@ -18595,9 +18595,9 @@
         "state": "future"
     },
     "gxxmm.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "gxxyb.net": {
         "epoch": 1604707200.0,
