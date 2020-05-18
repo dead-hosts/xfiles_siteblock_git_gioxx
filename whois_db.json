@@ -10732,7 +10732,7 @@
     "crnv.com.br": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "croadventure.pl": {
         "epoch": 1580256000.0,
