@@ -6397,7 +6397,7 @@
     "binaryindicatorpro.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "binaryonlinetrade.com": {
         "epoch": 1590710400.0,
@@ -24065,8 +24065,8 @@
         "state": "past"
     },
     "kokoyazi.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "kolhagames.com": {
