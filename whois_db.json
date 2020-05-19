@@ -2245,8 +2245,8 @@
         "state": "future"
     },
     "ahsapen.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "ahxldgy.com": {
@@ -9785,9 +9785,9 @@
         "state": "past"
     },
     "codehicode.com": {
-        "epoch": 1582761600.0,
-        "expiration_date": "27-feb-2020",
-        "state": "past"
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "state": "future"
     },
     "codornicesforge.com": {
         "epoch": 1694217600.0,
