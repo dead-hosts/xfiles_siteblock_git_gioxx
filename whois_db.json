@@ -34272,7 +34272,7 @@
     "quicwebsolutions.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "quiltsforcomfort.org": {
         "epoch": 1612742400.0,
@@ -38212,7 +38212,7 @@
     "slanovskiy.ua": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "slgrpromotion.com": {
         "epoch": 1617062400.0,
@@ -43605,9 +43605,9 @@
         "state": "future"
     },
     "viajemaisturismo.com.br": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
-        "state": "past"
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
     },
     "viajesdelcomercio.com": {
         "epoch": 1602028800.0,
