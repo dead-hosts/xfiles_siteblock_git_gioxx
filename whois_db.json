@@ -13225,9 +13225,9 @@
         "state": "future"
     },
     "dwwgeneraltrading.com": {
-        "epoch": 1562544000,
-        "expiration_date": "08-jul-2019",
-        "state": "past"
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
     },
     "dxcrystal.com": {
         "epoch": 1602720000.0,
@@ -17940,8 +17940,8 @@
         "state": "future"
     },
     "gorjesid.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "goroteka.pl": {
