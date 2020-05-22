@@ -16929,6 +16929,11 @@
         "expiration_date": "16-jul-2020",
         "state": "future"
     },
+    "ganiinc.co.za": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "state": "future"
+    },
     "gansbaaiboardinglodge.co.za": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
@@ -35690,8 +35695,8 @@
         "state": "future"
     },
     "rogersandstephens.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "rogersbonus.com": {
