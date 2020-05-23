@@ -3979,6 +3979,11 @@
         "expiration_date": "25-jul-2019",
         "state": "past"
     },
+    "appleverif.com": {
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
+        "state": "future"
+    },
     "applythegraft.com": {
         "epoch": 1617062400.0,
         "expiration_date": "30-mar-2021",
