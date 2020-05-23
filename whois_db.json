@@ -1275,9 +1275,9 @@
         "state": "future"
     },
     "abccomputer.co.tz": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
-        "state": "past"
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
+        "state": "future"
     },
     "abcdespanol.com": {
         "epoch": 1642550400.0,
@@ -34505,8 +34505,8 @@
         "state": "future"
     },
     "rajamc.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "rajdarpan.com": {
@@ -42065,8 +42065,8 @@
         "state": "future"
     },
     "trada247.net": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "trademissionmgt.com": {
