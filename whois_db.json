@@ -10814,6 +10814,11 @@
         "expiration_date": "03-sep-2020",
         "state": "future"
     },
+    "cryptoshopinc.com": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "state": "future"
+    },
     "crystallakevt.org": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
@@ -18965,8 +18970,8 @@
         "state": "future"
     },
     "hassanzirky.com": {
-        "epoch": 1590105600.0,
-        "expiration_date": "22-may-2020",
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "hatfieldent.com": {
