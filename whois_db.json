@@ -1484,6 +1484,11 @@
         "expiration_date": "29-aug-2020",
         "state": "future"
     },
+    "account-unlock.xyz": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
+    },
     "account-validation.services": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
@@ -9975,8 +9980,8 @@
         "state": "future"
     },
     "comdados.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "comercialherby.com": {
@@ -11105,8 +11110,8 @@
         "state": "future"
     },
     "cyberyellow.com": {
-        "epoch": 1590105600.0,
-        "expiration_date": "22-may-2020",
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
         "state": "future"
     },
     "cyclehearse.com": {
@@ -40852,6 +40857,11 @@
     "texasvendit.com": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "text-confirm.xyz": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "textilesmavi.com": {
