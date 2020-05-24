@@ -8210,8 +8210,8 @@
         "state": "future"
     },
     "careertransitionworkshop.org": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "careydunn.com": {
@@ -10512,7 +10512,7 @@
     "courodaterra.com.br": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "couturebridaldesignsltd.co.uk": {
         "epoch": 1572566400.0,
@@ -10785,9 +10785,9 @@
         "state": "future"
     },
     "crowleyinstitute.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
-        "state": "past"
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "state": "future"
     },
     "crownmehair.com": {
         "epoch": 1611878400.0,
@@ -16985,8 +16985,8 @@
         "state": "future"
     },
     "garantigrupo.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "garazowiec.pl": {
