@@ -17817,7 +17817,7 @@
     "gojukarate.biz": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "goldenaccess.info": {
         "epoch": 1600473600.0,
@@ -20265,8 +20265,8 @@
         "state": "future"
     },
     "hypnotherapeute-montreal.ca": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "hypo-tec.com": {
