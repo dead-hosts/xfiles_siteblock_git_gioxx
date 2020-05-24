@@ -16665,8 +16665,8 @@
         "state": "future"
     },
     "fullkanga.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "fullsizechevy.com": {
@@ -20612,6 +20612,11 @@
     "igorgraciejiujitsu.com": {
         "epoch": 1611014400.0,
         "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
+    "igorkuznecov.com": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "iguacuairporttransfer.com": {
