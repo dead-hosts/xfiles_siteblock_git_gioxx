@@ -10159,6 +10159,11 @@
         "expiration_date": "09-dec-2020",
         "state": "future"
     },
+    "confirmation-now.xyz": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "state": "future"
+    },
     "confirmation-wfbnk.xyz": {
         "epoch": 1618617600.0,
         "expiration_date": "17-apr-2021",
