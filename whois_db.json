@@ -362,7 +362,7 @@
     "1yyju.com": {
         "epoch": 1590537600.0,
         "expiration_date": "27-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "2000tours.com": {
         "epoch": 1602979200.0,
