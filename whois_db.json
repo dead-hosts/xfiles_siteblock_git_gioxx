@@ -17374,6 +17374,11 @@
         "expiration_date": "17-jul-2019",
         "state": "past"
     },
+    "germnertx.com": {
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
+        "state": "future"
+    },
     "gerozetace.com": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
