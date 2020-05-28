@@ -6815,9 +6815,9 @@
         "state": "future"
     },
     "blog-e-pedia.com": {
-        "epoch": 1583971200.0,
-        "expiration_date": "12-mar-2020",
-        "state": "past"
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "state": "future"
     },
     "bloggingfornetworking.com": {
         "epoch": 1606953600.0,
@@ -29897,7 +29897,7 @@
     "nage2017.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "nagellackonline.se": {
         "epoch": 1601942400.0,
@@ -42640,8 +42640,8 @@
         "state": "past"
     },
     "tvnamu2.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "twentytwoclothing.co.uk": {
