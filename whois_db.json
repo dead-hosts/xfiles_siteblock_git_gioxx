@@ -6854,6 +6854,11 @@
         "expiration_date": "26-jan-2021",
         "state": "future"
     },
+    "blueprintbiz.net": {
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
+        "state": "future"
+    },
     "bluerockbulliescol.com": {
         "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
@@ -16780,9 +16785,9 @@
         "state": "future"
     },
     "futbol5donjuan.com.ar": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
-        "state": "past"
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "state": "future"
     },
     "futcamisas.com.br": {
         "epoch": 1588204800.0,
@@ -18505,8 +18510,8 @@
         "state": "future"
     },
     "gudanglagu4shared.website": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "state": "future"
     },
     "guiadasacompanhantes.com.br": {
