@@ -23915,9 +23915,9 @@
         "state": "future"
     },
     "kingstorrent.com": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
-        "state": "past"
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
+        "state": "future"
     },
     "kinjoken.win": {
         "epoch": 1562457600,
@@ -35837,7 +35837,7 @@
     "rooferclearwater.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "roofinmobiliaria.com": {
         "epoch": 1733097600.0,
@@ -36405,8 +36405,8 @@
         "state": "future"
     },
     "samba100anosfilme.com.br": {
-        "epoch": 1590364800.0,
-        "expiration_date": "25-may-2020",
+        "epoch": 1621900800.0,
+        "expiration_date": "25-may-2021",
         "state": "future"
     },
     "sambalgarang.com": {
