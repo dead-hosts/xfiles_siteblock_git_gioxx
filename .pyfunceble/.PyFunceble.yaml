@@ -9,11 +9,11 @@ cli_testing:
         active: true
         branch: master
         command: hash dead_hosts_launcher && dead_hosts_launcher --save
-        commit_message: '[Autosave][Dead-Hosts::xfiles_siteblock_git_gioxx]'
+        commit_message: '[Autosave][Dead-Hosts::repository-structure]'
         distribution_branch: master
         end_command: hash dead_hosts_launcher && dead_hosts_launcher --end
-        end_commit_message: '[Final/Result][Dead-Hosts::xfiles_siteblock_git_gioxx]'
-        max_exec_minutes: 10
+        end_commit_message: '[Final/Result][Dead-Hosts::repository-structure]'
+        max_exec_minutes: 15
     complements: false
     cooldown_time: 0.0
     days_between:
@@ -21,7 +21,7 @@ cli_testing:
         db_retest: 1
     db_type: csv
     display_mode:
-        all: false
+        all: true
         colour: true
         dots: false
         execution_time: false
@@ -40,7 +40,7 @@ cli_testing:
     hosts_ip: 0.0.0.0
     inactive_db: true
     local_network: false
-    max_workers: null
+    max_workers: 1
     mining: false
     sorting_mode:
         hierarchical: false
@@ -57,7 +57,7 @@ dns:
     protocol: UDP
     server:
     - 8.8.8.8
-    - 8.4.4.8
+    - 8.8.4.4
 http_codes:
     list:
         potentially_down:
