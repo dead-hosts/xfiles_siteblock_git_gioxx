@@ -9,7 +9,7 @@ ci_branch: master
 ci_distribution_branch: master
 cli_testing:
     ci:
-        active: false
+        active: true
         branch: master
         command: hash dead_hosts_launcher && dead_hosts_launcher --save
         commit_message: '[Autosave][Dead-Hosts::xfiles_siteblock_git_gioxx]'
