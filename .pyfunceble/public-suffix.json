@@ -3199,7 +3199,7 @@
         "nanae.hokkaido.jp",
         "nanporo.hokkaido.jp",
         "nayoro.hokkaido.jp",
-        "hitachiota.ibaraki.jp",
+        "nemuro.hokkaido.jp",
         "niikappu.hokkaido.jp",
         "niki.hokkaido.jp",
         "nishiokoppe.hokkaido.jp",
@@ -3317,6 +3317,7 @@
         "hitachi.ibaraki.jp",
         "hitachinaka.ibaraki.jp",
         "hitachiomiya.ibaraki.jp",
+        "hitachiota.ibaraki.jp",
         "ibaraki.ibaraki.jp",
         "ina.ibaraki.jp",
         "inashiki.ibaraki.jp",
@@ -6432,12 +6433,12 @@
         "np"
     ],
     "nr": [
+        "net.nr",
         "biz.nr",
         "info.nr",
         "gov.nr",
         "edu.nr",
         "org.nr",
-        "net.nr",
         "com.nr"
     ],
     "nu": [
