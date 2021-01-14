@@ -6433,12 +6433,12 @@
         "np"
     ],
     "nr": [
-        "net.nr",
         "biz.nr",
         "info.nr",
         "gov.nr",
         "edu.nr",
         "org.nr",
+        "net.nr",
         "com.nr"
     ],
     "nu": [
