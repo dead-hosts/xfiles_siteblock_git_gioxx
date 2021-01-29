@@ -1717,10 +1717,6 @@
         "gov.fj",
         "org.fj",
         "mil.fj",
-        "name.fj",
-        "com.fj",
-        "pro.fj",
-        "ac.fj",
         "info.fj",
         "pro.fj",
         "net.fj"
@@ -4783,8 +4779,6 @@
     ],
     "ml": [
         "presse.ml",
-        "com.ml",
-        "edu.ml",
         "org.ml",
         "gov.ml",
         "net.ml",
