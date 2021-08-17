@@ -2,8 +2,8 @@
     {
         "checker_type": "AVAILABILITY",
         "destination": "origin.list",
-        "hash": "061b878624bb1e9ffecb28af76f4051302eb9eff170b6a0821abd934",
-        "line_number": 6491,
+        "hash": "305ac4946fababc01396960cf4e2f10653e674c1b95a0beee410ed97",
+        "line_number": 5322,
         "output_dir": "/home/runner/work/xfiles_siteblock_git_gioxx/xfiles_siteblock_git_gioxx/output/origin.list",
         "previous_hash": "c59a2bebc2a3d8bfb51ca304108b6f65480f67711f604b1951616e05",
         "session_id": "714c9e9f56c6d078d8ca699e",
