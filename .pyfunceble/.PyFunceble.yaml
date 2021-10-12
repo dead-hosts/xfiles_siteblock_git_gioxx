@@ -55,8 +55,8 @@ cli_testing:
     whois_db: true
 collection:
     preferred_status_origin: frequent
-    push: false
-    url_base: http://localhost:8080
+    push: true
+    url_base: https://collection.dead-hosts.funilrys.com
 debug:
     active: false
     level: info
