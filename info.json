@@ -8,8 +8,8 @@
     "finish_timestamp": 1625539608.79513,
     "last_download_datetime": "2020-05-28T15:02:57.200628",
     "last_download_timestamp": 1590678177.200628,
-    "latest_part_finish_datetime": "2022-10-30T17:30:14.785012",
-    "latest_part_finish_timestamp": 1667151014.785012,
+    "latest_part_finish_datetime": "2022-11-12T19:47:28.291780",
+    "latest_part_finish_timestamp": 1668282448.29178,
     "latest_part_start_datetime": "2020-05-28T15:02:57.208955",
     "latest_part_start_timestamp": 1590678177.208955,
     "live_update": true,
@@ -17,6 +17,7 @@
     "own_management": false,
     "ping": [],
     "raw_link": "https://raw.githubusercontent.com/gioxx/xfiles/master/siteblock.txt",
+    "repo": "xfiles_siteblock_git_gioxx/xfiles_siteblock_git_gioxx",
     "start_datetime": "2020-05-26T19:23:30.666179",
     "start_timestamp": 1590521010.666179
 }
