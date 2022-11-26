@@ -4862,3 +4862,8 @@ ns1.bigpond.net.au                                                              
 ns1.bluegrass.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 ns1.biz.rr.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 ns1.blueriver.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+ns1.bnt.com                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown                        302        AVAILABILITY 
+ns1.bigpond.net.au                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ns1.bluegrass.net                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ns1.blueriver.net                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ns1.biz.rr.com                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
