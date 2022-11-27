@@ -4943,3 +4943,6 @@ ns1.clt.peak-10.com                                                             
 ns1.chubb.com                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 ns1.clara.net                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 ns1.cliu.org                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+ns1.chubb.com                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ns1.clara.net                                                                                        ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ns1.cliu.org                                                                                         ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
