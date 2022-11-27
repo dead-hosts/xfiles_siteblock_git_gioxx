@@ -5012,3 +5012,9 @@ ns1.datapipe.net                                                                
 ns1.dhcp.bluecom.no                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 ns1.det.wa.edu.au                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 ns1.deltacom.net                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+ns1.det.wa.edu.au                                                                                    ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ns1.dhcp.bluecom.no                                                                                  ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ns1.dialassurance.com                                                                                ACTIVE      DNSLOOKUP  Unknown           Unknown                        301        AVAILABILITY 
+ns1.cytanet.com.cy                                                                                   ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ns1.datapipe.net                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ns1.deltacom.net                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
