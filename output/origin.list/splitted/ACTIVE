@@ -5737,3 +5737,8 @@ ns2.tcarrier.net                                                                
 ns2.tedata.net                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 ns2.telcove.net                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
 ns2.tel.cz                                                                                           ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
+ns2.tcarrier.net                                                                                     ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ns2.telcove.net                                                                                      ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ns2.tedata.net                                                                                       ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ns2.tel.cz                                                                                           ACTIVE      COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+ns2.telecom.lt                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown                        Unknown    AVAILABILITY 
