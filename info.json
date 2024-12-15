@@ -16,6 +16,7 @@
     "name": "xfiles_siteblock_git_gioxx",
     "own_management": false,
     "ping": [],
+    "ping_enabled": false,
     "platform_container_id": null,
     "platform_container_name": "xfiles_siteblock_git_gioxx",
     "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
